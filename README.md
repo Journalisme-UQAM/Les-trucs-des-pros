@@ -1,12 +1,13 @@
 ---
 description: >-
   Vous êtes journaliste? Citoyen•ne curieux•se? Ce site vous permet
-  d'approfondir vos recherches sur Internet.
+  d'approfondir vos recherches sur Internet et, comme le saumon, de toujours
+  remonter à la source de l'information.
 cover: .gitbook/assets/Saumon.png
 coverY: 0
 ---
 
-# 🔎 Comme le saumon, remontez toujours à la source de l'information
+# 🔎 Les trucs des pros
 
 ## **Pour aller plus loin**
 
