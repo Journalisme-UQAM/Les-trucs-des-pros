@@ -1,7 +1,7 @@
 ---
 description: >-
-  Vous êtes journaliste? Citoyen? Ce site vous permet d'approfondir vos
-  recherches.
+  Vous êtes journaliste? Citoyen•ne curieux•se? Ce site vous permet
+  d'approfondir vos recherches.
 cover: .gitbook/assets/w-cimetiere-orleans.jpg
 coverY: 109
 ---
