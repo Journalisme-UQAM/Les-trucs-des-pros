@@ -18,10 +18,14 @@ Pour faire des recherches plus poussées, qu’il s’agisse de trouver des pers
 
 <figure><img src=".gitbook/assets/webinvisible.jpg" alt=""><figcaption><p>Image générée par DALL•E 2 avec la commande : « Le web invisible est comme la partie immergée de l’iceberg », </p></figcaption></figure>
 
+***
+
 Cette page est une ressource en ligne destinée d’abord et avant tout aux personnes étudiantes du programme de journalisme de l’UQAM inscrites au cours EDM1400 — Méthodologie de la recherche en journalisme.
 
 _Les différents sites indiqués sur cette page ont été colligés à partir de la fin des années 1990 en travaillant comme journaliste sur une multitude de dossiers. La liste de ces ressources a également été enrichie à l’occasion de ma participation comme co-formateur aux séances de formation sur la recherche avancée sur le web conçues par **Benoît Michaud** et **Frédéric Zalac**, à Radio-Canada, au milieu de la décennie 2000._
 
 ***
 
-L'auteur de ce guide le met à la disposition
+<figure><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt=""><figcaption></figcaption></figure>
+
+L'auteur de ce plan de cours (Jean-Hugues Roy) le met à la disposition de toute personne en vertu de la licence Creative Commons suivante: [Attribution - Pas d’Utilisation Commerciale 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.fr).
