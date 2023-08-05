@@ -8,7 +8,7 @@ description: >-
 
 ## Fonction publique fédérale
 
-<figure>[<img src=".gitbook/assets/sage.png" alt="">](http://sage-geds.tpsgc-pwgsc.gc.ca/fr/SAGE?pgid=002)<figcaption><p>Interface du SAGE</p></figcaption></figure>
+<figure><img src=".gitbook/assets/sage.png" alt=""><figcaption><p>Interface du SAGE</p></figcaption></figure>
 
 Pour retrouver des fonctionnaires fédéraux, vous pouvez consulter le site du [**Services d’annuaires gouvernementaux électroniques (SAGE)**](http://sage-geds.tpsgc-pwgsc.gc.ca/fr/SAGE?pgid=002).
 
