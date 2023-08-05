@@ -4,7 +4,7 @@ description: >-
   soient de plus en plus muselés, il y a les fonctionnaires.
 ---
 
-# Annuaires
+# ✏ Fonctionnaires
 
 ## Fonction publique fédérale
 
@@ -22,38 +22,6 @@ Dans les résultats de recherche, j’attire particulièrement votre attention s
 
 Au provincial, on trouve rapidement les numéros de poste des fonctionnaires grâce au [**Répertoire téléphonique (Reptel) du personnel de la fonction publique**](http://www.reptel.gouv.qc.ca/reptel.aspx). Il ne permet cependant pas, comme le SAGE, de situer le ou la fonctionnaire dans son univers.
 
-## Annuaires téléphoniques
+## Municipalités
 
-Il n’existe pas de répertoire gratuit de numéros de téléphone cellulaire. Pareil outil serait pratique, car de moins en moins de gens possèdent une ligne téléphonique terrestre. [**Canada411**](https://www.fr.canada411.ca/search/address.html) demeure néanmoins utile. Jusqu’en 2014, même l’ex-maire de Laval, Gilles Vaillancourt, y était encore inscrit!
-
-Faites-y des recherches par adresse pour trouver le numéro de téléphone qui y est associé, ou encore par code postal, pour rejoindre des voisins.
-
-<figure><img src=".gitbook/assets/ canada411.png" alt="" width="563"><figcaption><p>Interface de Canada411</p></figcaption></figure>
-
-## Truc Google pour trouver des numéros de cellulaire
-
-Pour trouver le numéro de quelqu'un avec une recherche Google, combinez le nom de la personne avec les indicatifs régionaux de la région où elle habite.
-
-### Île de Montréal
-
-```
-"Prénom Nom" 514 OR 438 OR 263
-```
-
-### Grand Montréal
-
-```
-"Prénom Nom" 450 OR 579 OR 354
-```
-
-### Capitale-Nationale et Est du Québec
-
-```
-"Prénom Nom" 418 OR 581 OR 367
-```
-
-### Estrie, Mauricie, Outaouais, Abitibi-Témiscamingue et Nord du Québec
-
-```
-"Prénom Nom" 819 OR 873 OR 468
-```
+Il n’existe pas de bottin unifié pour les villes et villages du Québec. Mais le [**Répertoire des municipalités**](https://www.mamh.gouv.qc.ca/repertoire-des-municipalites/) vous donne d’autres informations utiles, notamment le gentilé à utiliser dans vos reportages (si vous racontez que les Campivallensiens sont sous le choc, vous êtes [où](https://www.mamh.gouv.qc.ca/recherche-avancee/fiche/municipalite/70052/)?)
