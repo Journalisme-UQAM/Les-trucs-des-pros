@@ -24,7 +24,7 @@ Au provincial, on trouve rapidement les numéros de poste des fonctionnaires gr�
 
 ## Annuaires téléphoniques
 
-Il n’existe pas de répertoire gratuit de numéros de téléphone cellulaire. Pareil outil serait pratique, car de moins en moins de gens possèdent une ligne téléphonique terrestre. \[**Canada411]\(**[**https://www.fr.canada411.ca/search/address.html**](https://www.fr.canada411.ca/search/address.html)**)** demeure néanmoins utile. Jusqu’en 2014, même l’ex-maire de Laval, Gilles Vaillancourt, y était encore inscrit!
+Il n’existe pas de répertoire gratuit de numéros de téléphone cellulaire. Pareil outil serait pratique, car de moins en moins de gens possèdent une ligne téléphonique terrestre. [**Canada411**](https://www.fr.canada411.ca/search/address.html) demeure néanmoins utile. Jusqu’en 2014, même l’ex-maire de Laval, Gilles Vaillancourt, y était encore inscrit!
 
 Faites-y des recherches par adresse pour trouver le numéro de téléphone qui y est associé, ou encore par code postal, pour rejoindre des voisins.
 
