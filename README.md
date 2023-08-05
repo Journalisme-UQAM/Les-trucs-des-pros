@@ -10,15 +10,15 @@ coverY: 0
 
 ## x**Pour aller plus loin**
 
-Quand on fait de la recherche ou de la vérification, en journalisme, on peut bien entendu se servir de Google, de DuckDuckGo, de Bing, ou de tout autre moteur de recherche. Mais [même si on le fait comme un chef](http://bit.ly/googchef), d’innombrables ressources restent hors de portée, car les moteurs de recherche n’indexent pas tout.
+Quand on fait de la recherche ou de la vérification, en journalisme, on peut bien entendu se servir de [Google](https://www.google.ca/), de [DuckDuckGo](https://duckduckgo.com), de [Bing](https://www.bing.com), ou de tout autre moteur de recherche. Mais [même si on le fait comme un chef](http://bit.ly/googchef), d’innombrables ressources restent hors de portée, car les moteurs de recherche n’indexent pas tout.
 
-<figure><img src=".gitbook/assets/w-cimetiere-orleans (1).jpg" alt="" width="375"><figcaption><p>Pierre tombale avec la lettre W, cimetière de Orleans, Massachusetts (J H Roy).</p></figcaption></figure>
+<figure><img src=".gitbook/assets/w-cimetiere-orleans.jpg" alt="" width="375"><figcaption><p>Pierre tombale avec la lettre W, cimetière de Orleans, Massachusetts (J H Roy).</p></figcaption></figure>
 
 D'innombrables informations restent cachées, un peu comme ce qui se trouve enfoui sous le « W » ci-dessus. C'est ce qu'on appelle le **web invisible**, à ne pas confondre avec le _dark web_, cet espace clandestin déployé notamment sur le réseau Tor (_The Onion Router_).
 
 Pour faire des recherches plus poussées, qu’il s’agisse de trouver des personnes ou des sources documentaires pertinentes, il faut passer directement par quelques-uns des sites inclus dans ce guide. Ce sont les outils les plus souvent utilisés par les journalistes du Québec.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Image générée par DALL•E 2 avec la commande : « Le web invisible est comme la partie immergée de l’iceberg »,</p></figcaption></figure>
+<figure><img src=".gitbook/assets/webinvisible.jpg" alt=""><figcaption><p>Image générée par DALL•E 2 avec la commande : « Le web invisible est comme la partie immergée de l’iceberg »,</p></figcaption></figure>
 
 ***
 
