@@ -1,7 +1,7 @@
 ---
 description: >-
   Vous êtes journaliste? Citoyen•ne curieux•se? Ce site vous permet
-  d'approfondir vos recherches.
+  d'approfondir vos recherches sur Internet.
 cover: .gitbook/assets/w-cimetiere-orleans.jpg
 coverY: 109
 ---
@@ -10,13 +10,13 @@ coverY: 109
 
 ## **Pour aller plus loin**
 
-Quand on fait de la recherche en journalisme, on peut bien entendu se servir de Google, de DuckDuckGo, de Bing, ou de tout autre moteur de recherche. Mais [même si on le fait comme un chef](http://bit.ly/googchef), d’innombrables ressources restent hors de portée, car les moteurs de recherche n’indexent pas tout. D'innombrables informations restent cachées, un peu comme ce qui se trouve enfoui sous le « W » ci-dessus.
+Quand on fait de la recherche ou de la vérification, en journalisme, on peut bien entendu se servir de Google, de DuckDuckGo, de Bing, ou de tout autre moteur de recherche. Mais [même si on le fait comme un chef](http://bit.ly/googchef), d’innombrables ressources restent hors de portée, car les moteurs de recherche n’indexent pas tout.
 
-C'est ce qu'on appelle le **web invisible**, à ne pas confondre avec le _dark web_ ou le _deep web_.
+D'innombrables informations restent cachées, un peu comme ce qui se trouve enfoui sous le « W » ci-dessus. C'est ce qu'on appelle le **web invisible**, à ne pas confondre avec le _dark web_, cet espace clandestin déployé notamment sur le réseau Tor (_The Onion Router_).
 
 Pour faire des recherches plus poussées, qu’il s’agisse de trouver des personnes ou des sources documentaires pertinentes, il faut passer directement par quelques-uns des sites inclus dans ce guide. Ce sont les outils les plus souvent utilisés par les journalistes du Québec.
 
-<figure><img src=".gitbook/assets/webinvisible.jpg" alt=""><figcaption><p>Image générée par DALL•E 2 avec la commande : « Le web invisible est comme la partie immergée de l’iceberg », </p></figcaption></figure>
+<figure><img src=".gitbook/assets/webinvisible.jpg" alt=""><figcaption><p>Image générée par DALL•E 2 avec la commande : « Le web invisible est comme la partie immergée de l’iceberg »,</p></figcaption></figure>
 
 ***
 
