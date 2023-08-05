@@ -6,9 +6,9 @@ cover: .gitbook/assets/w-cimetiere-orleans.jpg
 coverY: 109
 ---
 
-# 🔎 Les trucs des pros
+# 🔎 Comme le saumon, remontez toujours à la source de l'information
 
-## **Pour aller plus loin**
+## x**Pour aller plus loin**
 
 Quand on fait de la recherche ou de la vérification, en journalisme, on peut bien entendu se servir de Google, de DuckDuckGo, de Bing, ou de tout autre moteur de recherche. Mais [même si on le fait comme un chef](http://bit.ly/googchef), d’innombrables ressources restent hors de portée, car les moteurs de recherche n’indexent pas tout.
 

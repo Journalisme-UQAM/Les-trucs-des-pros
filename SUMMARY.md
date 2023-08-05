@@ -1,3 +1,3 @@
 # Table of contents
 
-* [🔎 Les trucs des pros](README.md)
+* [🔎 Comme le saumon, remontez toujours à la source de l'information](README.md)
