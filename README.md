@@ -30,3 +30,7 @@ _Les différents sites indiqués sur cette page ont été colligés à partir de
 <figure><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt=""><figcaption></figcaption></figure>
 
 L'auteur de ce plan de cours (Jean-Hugues Roy) le met à la disposition de toute personne en vertu de la licence Creative Commons suivante: [Attribution - Pas d’Utilisation Commerciale 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.fr).
+
+***
+
+_L'image de couverture a été générée par Midjourney avec la commande suivante (en anglais): «Saumon sortant de l'eau vive pour manger des documents, dans le style de Paul Klee»._
