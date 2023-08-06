@@ -22,4 +22,5 @@
 
 ## Outils d'enquête
 
-* [Analyse web](outils-denquete/analyse-web.md)
+* [🕸 Analyse web](outils-denquete/analyse-web.md)
+* [Analyse d'images](outils-denquete/analyse-dimages.md)
