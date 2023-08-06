@@ -21,7 +21,7 @@ Quand les métadonnées sont muettes, vous pouvez vous tourner vers l'un ou l'au
 Quatre outils de recherche d'images inversée peuvent être utiles.
 
 * [**TinEye**](https://tineye.com), le plus ancien, ne va que vous permettre de retrouver exactement l'image que vous lui soumettez.
-* [**Google Lens**]((https://www.google.ca/imghp?hl=fr) est souvent très bon, mais il est davantage conçu comme un outil pour nous aider à magasiner, donc il va parfois focaliser sur les vêtements que la personne porte ou les objets autour plutôt que de nous dire qui apparaît sur la photo ou où est-ce qu'on se trouve (voir exemple en bas de page).
+* \[**Google Lens**]\((https://www.google.ca/imghp?hl=fr) est souvent très bon, mais il est davantage conçu comme un outil pour nous aider à magasiner, donc il va parfois focaliser sur les vêtements que la personne porte ou les objets autour plutôt que de nous dire qui apparaît sur la photo ou où est-ce qu'on se trouve (voir exemple en bas de page).
 * [**Bing images**](https://www.bing.com/visualsearch) peut parfois s'avérer une bonne solution de rechange à Google.
 * Le volet images du moteur de recherche russe [**Yandex**](https://yandex.com/images/) peut également être utilisé si les deux précédents ne donnent pas les résultats escomptés.
 
@@ -55,18 +55,18 @@ Son outil «_**Clone detection**_» permet de repérer les zones où il y a eu d
 
 Les images générées par IA ont tendance à avoir plus de ces zones que les images réelles. Voici deux exemples avec des images générées par Midjourney dont le réalisme est à s'y méprendre.
 
-<figure><img src="../.gitbook/assets/forensicFaux1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/forensicFaux1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/forensicFaux2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/forensicFaux2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Comparez toujours avec des images dont l'authenticité ne fait pas de doute et examinez-les avec les mêmes paramètres.
 
-<figure><img src="../.gitbook/assets/forensicVrai1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/forensicVrai1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/forensicVrai2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/forensicVrai2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Quand Google se goure
 
-Souvent, Google Lens pense qu'on cherche un produit plutôt qu'une personne...
+Google Lens pense souvent qu'on cherche un produit plutôt qu'une personne. Exemple local.
 
 <figure><img src="../.gitbook/assets/jhr.png" alt=""><figcaption><p>Je ne suis qu'une chemise</p></figcaption></figure>
