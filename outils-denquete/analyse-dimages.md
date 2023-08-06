@@ -6,7 +6,7 @@
 
 L’outil [**Forensically**](https://29a.ch/photo-forensics/) permet de faire l’analyse poussée d’une image, permettant de détecter des zones où il y a eu du copier-coller et d’afficher facilement les métadonnées d’une image.
 
-De son côté, [**Google Images**](https://www.google.ca/imghp?hl=fr) peut être redoutablement efficace pour identifier une personne dans une photo que vous lui soumettez. Voici un exemple avec le recteur de l'UQAM.
+De son côté, [**Google Lens**](https://www.google.ca/imghp?hl=fr) peut être redoutablement efficace pour identifier une personne dans une photo que vous lui soumettez. Voici un exemple avec le recteur de l'UQAM.
 
 <figure><img src="../.gitbook/assets/pallage.png" alt=""><figcaption><p>Google Pallage a reconnu M. Image</p></figcaption></figure>
 
