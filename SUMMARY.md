@@ -1,6 +1,10 @@
 # Table of contents
 
 * [🔎 Les trucs des pros](README.md)
-* [✏ Fonctionnaires](annuaires.md)
-* [📚 Annuaires](annuaires-1.md)
-* [💊 Ordres professionnels](ordres-professionnels.md)
+
+## Trouver des personnes
+
+* [✏ Fonctionnaires](trouver-des-personnes/annuaires.md)
+* [💊 Ordres professionnels](trouver-des-personnes/ordres-professionnels.md)
+* [📚 Annuaires et whois](trouver-des-personnes/annuaires-1.md)
+* [🏭 Registre des entreprises](trouver-des-personnes/registre-des-entreprises.md)
