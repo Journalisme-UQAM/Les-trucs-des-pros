@@ -18,8 +18,8 @@ Au fédéral, l’outil de recherche des appels d’offres sur les marchés publ
 
 <figure><img src="../.gitbook/assets/carrefourLobby.png" alt="" width="366"><figcaption></figcaption></figure>
 
-Une autre très bonne façon de trouver de la nouvelle dans votre région ou votre secteur d’activité, c’est de consulter régulièrement **Carrefour Lobby Québec** [**https://www.carrefourlobby.quebec/home**](https://www.carrefourlobby.quebec/home), le nouveau nom du **Registre des lobbyistes**. En faisant une recherche par municipalité ou par ministère, par exemple, vous êtes en mesure de voir pour quels projets, au juste, des entrepreneurs ou des organismes font des démarches auprès de ces organismes publics.
+Une autre très bonne façon de trouver de la nouvelle dans votre région ou votre secteur d’activité, c’est de consulter régulièrement [**Carrefour Lobby Québec**](https://www.carrefourlobby.quebec/home), le nouveau nom du **Registre des lobbyistes**. En faisant une recherche par municipalité ou par ministère, par exemple, vous êtes en mesure de voir pour quels projets, au juste, des entrepreneurs ou des organismes font des démarches auprès de ces organismes publics.
 
 Le [**Registre fédéral des lobbyistes**](https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/guest?lang=fra) est intéressant pour les mêmes raisons.
 
-Pour comprendre comment fonctionne le lobbying au Québec, visitez **Lobbying Québec.** [**https://lobbyisme.quebec/**](https://lobbyisme.quebec/), le site du Commissaire au lobbyisme du Québec.
+Pour comprendre comment fonctionne le lobbying au Québec, visitez [**Lobbying Québec**](https://lobbyisme.quebec/), le site du Commissaire au lobbyisme du Québec.
