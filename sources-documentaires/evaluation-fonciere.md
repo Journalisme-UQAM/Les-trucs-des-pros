@@ -19,11 +19,11 @@ Voici des liens directs vers les services d’évaluation foncière des 10 munic
 * [Agglomération de Montréal](https://servicesenligne2.ville.montreal.qc.ca/sel/evalweb/index) (toutes les municipalités de l’île, incluant les villes défusionnées comme Westmount ou Baie-D’Urfé)
 * [Québec](https://www.ville.quebec.qc.ca/citoyens/taxes\_evaluation/evaluation\_fonciere/role/index.aspx)
 * [Laval](https://www.laval.ca/Pages/Fr/Citoyens/consulter-evaluation-taxation.aspx)
-* [Agglomération de Longueuil](https://role.longueuil.quebec/asp/Frame.asp?ResolEcran=1280) (incluant municipalités défusionnées comme Boucherville ou Saint-Bruno) [https://www.longueuil.quebec/fr/evaluation-fonciere](https://www.longueuil.quebec/fr/evaluation-fonciere)
+* [Agglomération de Longueuil](https://www.longueuil.quebec/fr/evaluation-fonciere) (incluant municipalités défusionnées comme Boucherville ou Saint-Bruno)
 * [Gatineau](https://www3.gatineau.ca/servicesenligne/evaluation/)
 * [Sherbrooke](https://www.ville.sherbrooke.qc.ca/services-municipaux/service-des-finances/role-devaluation/)
 * [Saguenay](https://tfp.saguenay.ca/Tfp/asp/tfp.aspx)
-* [Lévis](https://portail.accescite.net/ProfileGovern/UEL/WEB\_UEL\_CITY.aspx?action=styleselection\&CityId=25213\&language=fr\&CookiesOn=yes) -> [https://www.ville.levis.qc.ca/taxes-permis-reglements/taxes-evaluation-fonciere/evaluation-proprietes](https://www.ville.levis.qc.ca/taxes-permis-reglements/taxes-evaluation-fonciere/evaluation-proprietes)
+* [Lévis](https://www.ville.levis.qc.ca/taxes-permis-reglements/taxes-evaluation-fonciere/evaluation-proprietes)
 * [Trois-Rivières](http://www.v3r.net/services-au-citoyen/taxes-et-evaluation/evaluation-fonciere)
 * [Terrebonne](http://e-services.acceo.com/immosoft/controller/ImmoNetPub/U4051/trouverParAdresse?fourn\_seq=5)
 
