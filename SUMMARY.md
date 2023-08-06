@@ -12,3 +12,4 @@
 ## Sources documentaires
 
 * [🏠 Évaluation foncière](sources-documentaires/evaluation-fonciere.md)
+* [🏡 Registre foncier et infolot](sources-documentaires/registre-foncier-et-infolot.md)

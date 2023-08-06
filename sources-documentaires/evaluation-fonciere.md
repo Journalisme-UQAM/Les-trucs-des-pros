@@ -10,9 +10,11 @@ Une fois que vous avez trouvé l’adresse de quelqu’un grâce au REQ ou à Op
 
 La majorité des municipalités du Québec offrent un outil de recherche public et gratuit pour consulter leur **rôle d’évaluation**. [Les municipalités qui le font sont répertoriées par le site web _Québec municipal_](http://www.quebecmunicipal.qc.ca/index.asp?module=roles).
 
-Les municipalités utilisent différents systèmes, dont certains semblent tout droit sortis des années 1990, mais ils se ressemblent tous. Il suffit généralement de chercher, sur la page d’accueil de la municipalité qui nous intéresse, la section appelée **« Évaluation foncière »** ou **« Rôle d’évaluation »**, puis d’entrer l’adresse qu’on cherche.
+Les municipalités utilisent différents systèmes, dont certains semblent tout droit sortis des années 1990, mais ils se ressemblent tous. Il suffit généralement de chercher, sur la page d’accueil de la municipalité qui nous intéresse, la section appelée **« Évaluation foncière »** ou **« Rôle d’évaluation »**, puis d’entrer l’adresse qu’on cherche.
 
 Quand l’outil de recherche nous demande si on est un•e professionnel•le ou un citoyen, les journalistes que nous sommes sont considérés comme de **simples citoyen•nes** (les professionnel•les, ici, sont généralement des notaires).
+
+## Top-10 des rôles d'évaluation
 
 Voici des liens directs vers les services d’évaluation foncière des 10 municipalités les plus populeuses du Québec:
 
@@ -32,3 +34,5 @@ C’est dans la fiche d’une propriété que vous pourrez trouver sa valeur au 
 Et rappelez-vous:
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*Mmbx_CUA_pnr9Q1T8iPOZA.png" alt="" height="66" width="700"><figcaption><p>Bâtiment + terrain = immeuble</p></figcaption></figure>
+
+Prenez l'habitude de noter le **numéro de lot** des immeubles qui vous intéressent. Vous pourrez vous en servir avec les outils suivants.
