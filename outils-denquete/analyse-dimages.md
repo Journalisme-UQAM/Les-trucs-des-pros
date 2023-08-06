@@ -47,6 +47,34 @@ Mise en situation. Vous faites enquête sur une influenceuse en cavale. Vous tro
 
 <figure><img src="../.gitbook/assets/tremblant.png" alt=""><figcaption><p>Notre influenceuse est à Tremblant avec une groupie.</p></figcaption></figure>
 
+## Analyse criminalistique (_forensic_)
+
+Pour savoir si on a affaire à une image manipulée (par modification avec Photoshop, par exemple) ou générée par un système basé sur l'IA, on peut en effectuer l'analyse à l'aide de Forensically.
+
+Son outil «_**Clone detection**_» permet de repérer les zones où il y a eu du copier-coller.
+
+Les images générées par IA ont tendance à avoir plus de ces zones que les images réelles. Voici deux exemples avec des images générées par Midjourney dont le réalisme est à s'y méprendre.
+
+Comparez toujours avec des images dont l'authenticité ne fait pas de doute et examinez-les avec les mêmes paramètres.
+
+<div>
+
+<figure><img src="../.gitbook/assets/forensicVrai2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/forensicFaux1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/forensicVrai1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/forensicFaux2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*YNM1pizIOxqXQgU1MjPqxw.png" alt="" height="482" width="700"><figcaption></figcaption></figure>
 
 L’outil [**Forensically**](https://29a.ch/photo-forensics/) permet de faire l’analyse poussée d’une image, permettant de détecter des zones où il y a eu du copier-coller et d’afficher facilement les métadonnées d’une image.
