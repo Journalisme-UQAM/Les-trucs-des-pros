@@ -6,6 +6,8 @@ description: >-
 
 # 📸 Analyse d'images
 
+## [https://www.google.ca/imghp?hl=fr](https://www.google.ca/imghp?hl=fr)
+
 ## Métadonnées
 
 Ce devrait être votre premier réflexe.
@@ -21,7 +23,7 @@ Quand les métadonnées sont muettes, vous pouvez vous tourner vers l'un ou l'au
 Quatre outils de recherche d'images inversée peuvent être utiles.
 
 * [**TinEye**](https://tineye.com), le plus ancien, ne va que vous permettre de retrouver exactement l'image que vous lui soumettez.
-* \[**Google Lens**]\((https://www.google.ca/imghp?hl=fr) est souvent très bon, mais il est davantage conçu comme un outil pour nous aider à magasiner, donc il va parfois focaliser sur les vêtements que la personne porte ou les objets autour plutôt que de nous dire qui apparaît sur la photo ou où est-ce qu'on se trouve (voir exemple en bas de page).
+* **Google Lens** est souvent très bon, mais il est davantage conçu comme un outil pour nous aider à magasiner, donc il va parfois focaliser sur les vêtements que la personne porte ou les objets autour plutôt que de nous dire qui apparaît sur la photo ou où est-ce qu'on se trouve (voir exemple en bas de page).
 * [**Bing images**](https://www.bing.com/visualsearch) peut parfois s'avérer une bonne solution de rechange à Google.
 * Le volet images du moteur de recherche russe [**Yandex**](https://yandex.com/images/) peut également être utilisé si les deux précédents ne donnent pas les résultats escomptés.
 
@@ -37,13 +39,13 @@ J'ai soumis une image appelée _egliz.jpg_ et Google Lens a été l'outil qui a 
 
 <figure><img src="../.gitbook/assets/megantic.png" alt=""><figcaption><p>Église Sainte-Agnès, située au centre-ville de Lac-Mégantic.</p></figcaption></figure>
 
-J'ai par contre soumis une autre image appelée _metro.jpg_. Tous les outils ont eu de la difficulté. Même Google Lens a incorrectement identifié l'immeuble se trouvant derrière, immeuble qui n'a même pas été conçu par le même architecte... Dans les autres résultats, cependant, on trouve la bonne réponse.
+J'ai par contre soumis une autre image appelée _metro.jpg_. Tous les outils ont eu de la difficulté. Même Google Lens a incorrectement identifié l'immeuble se trouvant derrière l'affiche du métro. Le moteur de recherche croit qu'il s'agit d'un building de l'Iowa qui n'a même pas été conçu par le même architecte... Dans les autres résultats, cependant, on trouve la bonne réponse.
 
 <figure><img src="../.gitbook/assets/vanderrohe.png" alt=""><figcaption><p>Un des immeubles du complexe Westmount Square, construit en 1967 et conçu par le célèbre architecte Mies Van der Rohe.</p></figcaption></figure>
 
 ### Où suis-je?
 
-Mise en situation. Vous faites enquête sur une influenceuse en cavale. Vous trouvez cette photo sur Instagram. Où a-t-elle été prise? Ici encore, Google Lens est celui qui réussit le mieux à reconnaître le paysage en arrière plan.
+Mise en situation. Vous faites enquête sur une influenceuse en cavale. Vous trouvez cette photo sur Instagram. Où a-t-elle été prise? Ici encore, Google Lens est celui qui réussit le mieux à reconnaître le paysage en arrière-plan.
 
 <figure><img src="../.gitbook/assets/tremblant.png" alt=""><figcaption><p>Notre influenceuse est à Tremblant avec une groupie.</p></figcaption></figure>
 
