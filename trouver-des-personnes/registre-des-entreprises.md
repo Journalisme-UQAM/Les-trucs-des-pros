@@ -1,3 +1,7 @@
+---
+description: ❤️
+---
+
 # 🏭 Registre des entreprises
 
 Le plus utile de tous les outils de recherche offerts gratuitement par l’État québécois est sans contredit le [**Registre des entreprises (REQ**](https://www.quebec.ca/entreprises-et-travailleurs-autonomes/obtenir-renseignements-entreprise/recherche-registre-entreprises/acceder-registre-entreprises)**)**. Il permet non seulement de savoir à qui appartient une société ou qui sont les administrateurs d’un organisme sans but lucratif, mais également de connaître leur adresse personnelle. À la fois fantastique et troublant.
