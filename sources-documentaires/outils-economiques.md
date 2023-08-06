@@ -29,8 +29,8 @@ L’équivalent américain s’appelle [**EDGAR**](http://www.sec.gov/edgar/sear
 
 <figure><img src="https://lautorite.qc.ca/typo3conf/ext/amf_site_lautorite/Resources/Public/Assets/img/logo-amf-header.svg" alt=""><figcaption></figcaption></figure>
 
-L'**Autorité des marchés financiers (AMF)** gère plusieurs registres qui peuvent vous être utiles dans le cadre d'un reportage, dont: [https://lautorite.qc.ca/grand-public/registres](https://lautorite.qc.ca/grand-public/registres)
+L'[**Autorité des marchés financiers (AMF)**](https://lautorite.qc.ca) gère [plusieurs registres](https://lautorite.qc.ca/grand-public/registres) qui peuvent vous être utiles dans le cadre d'un reportage, dont:
 
-* Registre des entreprises et des individus autorisés à exercer pour vérifier si une personne est autorisée à vendre des produits financiers ou à donner des conseils sur ces produits [https://lautorite.qc.ca/grand-public/registres/registre-des-entreprises-et-des-individus-autorises-a-exercer](https://lautorite.qc.ca/grand-public/registres/registre-des-entreprises-et-des-individus-autorises-a-exercer)
-* Registre de plateformes de cryptoactifs [https://lautorite.qc.ca/grand-public/registres/plateformes-de-negociation-de-cryptoactifs](https://lautorite.qc.ca/grand-public/registres/plateformes-de-negociation-de-cryptoactifs)
+* [Registre des entreprises et des individus autorisés à exercer](https://lautorite.qc.ca/grand-public/registres/registre-des-entreprises-et-des-individus-autorises-a-exercer) pour vérifier si une personne est autorisée à vendre des produits financiers ou à donner des conseils sur ces produits
+* [Registre de plateformes de cryptoactifs](https://lautorite.qc.ca/grand-public/registres/plateformes-de-negociation-de-cryptoactifs)
 
