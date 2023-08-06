@@ -16,3 +16,4 @@
 * [⚖ Outils juridiques](sources-documentaires/outils-juridiques.md)
 * [💰 Outils économiques](sources-documentaires/outils-economiques.md)
 * [🗳 Outils politiques](sources-documentaires/outils-politiques.md)
+* [🧀 SEAO et lobbyistes](sources-documentaires/seao-et-lobbyistes.md)
