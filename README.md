@@ -34,7 +34,3 @@ L'auteur de ce plan de cours (Jean-Hugues Roy) le met à la disposition de toute
 ***
 
 _L'image de couverture a été générée par Midjourney avec la commande suivante (en anglais): «Saumon sortant de l'eau vive pour manger des documents, dans le style de Paul Klee»._
-
-_Sur mobile, il est possible qu'elle ne soit pas entièrement visible. La voici donc, ci-dessous._
-
-<figure><img src=".gitbook/assets/Saumon.png" alt=""><figcaption></figcaption></figure>

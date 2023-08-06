@@ -17,10 +17,10 @@
 * [💰 Outils économiques](sources-documentaires/outils-economiques.md)
 * [🗳 Outils politiques](sources-documentaires/outils-politiques.md)
 * [🧀 SEAO et lobbyistes](sources-documentaires/seao-et-lobbyistes.md)
-* [✈ Avions](sources-documentaires/avions.md)
+* [✈ Avions et bateaux](sources-documentaires/avions.md)
 * [🦕 Reculer dans le temps](sources-documentaires/reculer-dans-le-temps.md)
 
 ## Outils d'enquête
 
 * [🕸 Analyse web](outils-denquete/analyse-web.md)
-* [Analyse d'images](outils-denquete/analyse-dimages.md)
+* [📸 Analyse d'images](outils-denquete/analyse-dimages.md)
