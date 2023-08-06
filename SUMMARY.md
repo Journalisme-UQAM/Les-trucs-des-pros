@@ -14,3 +14,4 @@
 * [🏠 Évaluation foncière](sources-documentaires/evaluation-fonciere.md)
 * [🏡 Registre foncier et infolot](sources-documentaires/registre-foncier-et-infolot.md)
 * [⚖ Outils juridiques](sources-documentaires/outils-juridiques.md)
+* [💰 Outils économiques](sources-documentaires/outils-economiques.md)
