@@ -25,3 +25,4 @@
 * [🕸 Analyse web](outils-denquete/analyse-web.md)
 * [📸 Analyse d'images](outils-denquete/analyse-dimages.md)
 * [📱 Réseaux sociaux](outils-denquete/reseaux-sociaux.md)
+* [🕵♀ Autres outils](outils-denquete/autres-outils.md)

@@ -14,15 +14,15 @@ Twitter offre une interface de [**recherche avancée**](https://twitter.com/sear
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*qW6MqHdOrJHhsFNOikfynA.png" alt="" height="754" width="700"><figcaption></figcaption></figure>
 
-## Facebook 
+## Facebook
 
 Les résultats de la [**recherche avancée**](https://www.facebook.com/) de Facebook ont perdu en qualité depuis 2020. Il demeure malgré tout possible de l'utiliser pour trouver des personnes à Montréal spécialisées sur un sujet donné ou touchées par un événément dans l'actualité. Coup d'État au Niger? Cette recherche permet de trouver des abonnés Facebook vivant à Montréal mais d'origine nigérienne.
 
 <figure><img src="../.gitbook/assets/niger.png" alt=""><figcaption></figcaption></figure>
 
-## TikTok 
+## TikTok
 
-Vous pouvez faire des recherches dans TikTok en utilisant simplement le bon vieux truc du `site:`: 
+Vous pouvez faire des recherches dans TikTok en utilisant simplement le bon vieux truc du `site:`:&#x20;
 
 ```
 site:tiktok.com "expression recherchée"
