@@ -6,11 +6,22 @@
 
 Michael Bazell, auteur d'[**IntelTechniques**](https://inteltechniques.com/tools/index.html), regroupe dans une seule page toute une variété d'outils dont l'un permet d'obtenir des infos avec un numéro de plaque américain. Parmi les outils qu'il réunit:
 
-* Réseaux sociaux (incluant **Reddit** ou **Discord**)
+* Réseaux sociaux et communautés (incluant **Reddit** ou **Discord**)
 * Chercher dans le _dark web_ (via réseau Tor)
 * Recherches par nom, par pseudo ou par adresse courriel dans une multitude d'outils
-* Recherches dans des **outils d'infonuagique** comme Google Drive
 * etc. (toujours ma catégorie préférée)
+
+### Recherches dans le nuage
+
+Une des recommandations de M. Bazell est de penser aux nombreux services infonuagiques qui hébergent des documents au cas où une organisation qui vous intéresse a partagé par mégarde un document donné. Vous pouvez y farire des recherches Google avec l'opérateur `site:`.
+
+Voici quelques exemples :&#x20;
+
+* **Google Docs** -> `site:docs.google.com "expression recherchée"`
+* **Google Docs** (autre nom de domaine) -> `site:drive.google.com "expression recherchée"`
+* **Amazon Web Services (AWS)** plusieurs organisations y enregistrent des documents -> `site:amazonaws.com "expression recherchée"`
+* **Google Cloud** -> `site:cloud.google.com "expression recherchée"`
+* **Microsoft 365** -> `site:docs.microsoft.com "expression recherchée"`
 
 ## Les outils de Bellingcat <a href="#3fea" id="3fea"></a>
 
