@@ -25,8 +25,9 @@
 * [🕸 Analyse web](outils-denquete/analyse-web.md)
 * [📸 Analyse d'images](outils-denquete/analyse-dimages.md)
 * [📱 Réseaux sociaux](outils-denquete/reseaux-sociaux.md)
-* [🕵♀ Autres outils](outils-denquete/autres-outils.md)
+* [🕵♀ 🕵♀ Autres outils](outils-denquete/autres-outils.md)
 
 ## Aller plus loin
 
 * [⏰ Outils de veille](aller-plus-loin/outils-de-veille.md)
+* [🤖 Automatiser les affaires plates](aller-plus-loin/automatiser-les-affaires-plates.md)
