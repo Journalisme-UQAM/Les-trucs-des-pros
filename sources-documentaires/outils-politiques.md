@@ -8,5 +8,5 @@ Quelques registres peuvent être utiles pour documenter les activités des perso
 
 La **Commissaire à l’éthique et à la déontologie du Québec** regroupe deux registres dans lesquels on trouve plusieurs données intéressantes:
 
-* Un [registre des **dons, avantages et autres marques d’hospitalité** que reçoivent des élu•es et dont la valeur dépasse 200$](https://www.ced-qc.ca/fr/registres-publics/18-dons-marques-d-hospitalite-et-autres-avantages).
+* Un [registre des **dons, avantages et autres marques d’hospitalité**](https://www.ced-qc.ca/fr/registres-publics/18-dons-marques-d-hospitalite-et-autres-avantages) que reçoivent des élu•es et dont la valeur dépasse 200$.
 * Un [registre des **déclarations d’intérêts**](https://www.ced-qc.ca/fr/registres-publics/19-sommaires-des-declarations-des-interets-personnels#navigation6) des élu•es peut contenir des informations pertinentes sur les actions que peuvent posséder des ministres ou député•es (et les membres de leurs familles) dans des entreprises.
