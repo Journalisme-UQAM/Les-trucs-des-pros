@@ -10,6 +10,6 @@ La [**Wayback Machine**](http://archive.org/web/) permet de voir l’apparence q
 
 ## Documents numérisés
 
-L'organisation qui héberge la Wayback Machine continent également une masse incroyable de documents numérisés. Leur collection de livres publiés au Québec est étonnante!
+L'organisation qui héberge la Wayback Machine, [**Archive.org**](https://archive.org/), continent également une masse incroyable de documents numérisés. Leur collection de livres publiés au Québec est étonnante!
 
 <figure><img src="../.gitbook/assets/archive-livres.png" alt=""><figcaption><p>La sélection d'ouvrages numérisés est beaucoup plus importante que celle qu'offre Google Livres, par exemple.</p></figcaption></figure>
