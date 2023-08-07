@@ -30,4 +30,4 @@
 ## Aller plus loin
 
 * [⏰ Outils de veille](aller-plus-loin/outils-de-veille.md)
-* [🤖 Automatiser](aller-plus-loin/automatiser-les-affaires-plates.md)
+* [🤖 Automatisation](aller-plus-loin/automatiser-les-affaires-plates.md)
