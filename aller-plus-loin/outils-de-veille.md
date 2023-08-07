@@ -12,3 +12,8 @@ Si vous devez consulter régulièrement une page web donnée pour voir s’il y 
 
 [https://www.followthatpage.com/](https://www.followthatpage.com/)
 
+### RSS <a href="#bdb8" id="bdb8"></a>
+
+La veille classique se fait par le biais des fils RSS. Différents outils, comme [**Feedly**](https://feedly.com), permettent d’en faire l’agrégation au sein d’un service web aussi accessible en app mobile. Mais les options les plus intéressantes de Feedly sont payantes.
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*vNBTMHVcDOFNmD5J3TkxNg.png" alt="" height="347" width="700"><figcaption><p>Interface de Feedly</p></figcaption></figure>
