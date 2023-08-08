@@ -23,6 +23,14 @@ Voici quelques exemples :&#x20;
 * **Google Cloud** -> `site:cloud.google.com "expression recherchée"`
 * **Microsoft 365** -> `site:docs.microsoft.com "expression recherchée"`
 
+### Carnet <a href="#3fea" id="3fea"></a>
+
+Carnet.ai fait pour les voitures ce que Shazam fait pour la musique.
+
+<figure><img src="../.gitbook/assets/carnetAI.png" alt="" width="563"><figcaption></figcaption></figure>
+
+[https://carnet.ai/](https://carnet.ai/)
+
 ## Les outils de Bellingcat <a href="#3fea" id="3fea"></a>
 
 <figure><img src="../.gitbook/assets/bellingcat.png" alt=""><figcaption><p>Logo de <em>Bellingcat</em></p></figcaption></figure>
