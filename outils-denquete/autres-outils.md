@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/char.jpg" alt=""><figcaption><p>Non, il n'existe pas de base de données des numéros de plaques minéralogiques au Canada. Aux États-Unis, cependant, c'est possible d'obtenir des infos avec un numéro de plaque et l'État qui l'a émise.</p></figcaption></figure>
 
-## IntelTechniques <a href="#3fea" id="3fea"></a>
+## IntelTechniques
 
 Michael Bazell, auteur d'[**IntelTechniques**](https://inteltechniques.com/tools/index.html), regroupe dans une seule page toute une variété d'outils dont l'un permet d'obtenir des infos avec un numéro de plaque américain. Parmi les outils qu'il réunit:
 
@@ -23,15 +23,13 @@ Voici quelques exemples :&#x20;
 * **Google Cloud** -> `site:cloud.google.com "expression recherchée"`
 * **Microsoft 365** -> `site:docs.microsoft.com "expression recherchée"`
 
-### Carnet <a href="#3fea" id="3fea"></a>
+### Carnet
 
-Carnet.ai fait pour les voitures ce que Shazam fait pour la musique.
+[**Carnet.ai**](https://carnet.ai/) fait pour les voitures ce que Shazam fait pour la musique. Vous lui soumettez une photo d'une automobile et il vous en donne la marque, le modèle et l'année. Il prétend avoir un taux de succès de 97%.
 
 <figure><img src="../.gitbook/assets/carnetAI.png" alt="" width="563"><figcaption></figcaption></figure>
 
-[https://carnet.ai/](https://carnet.ai/)
-
-## Les outils de Bellingcat <a href="#3fea" id="3fea"></a>
+## Les outils de Bellingcat
 
 <figure><img src="../.gitbook/assets/bellingcat.png" alt=""><figcaption><p>Logo de <em>Bellingcat</em></p></figcaption></figure>
 
