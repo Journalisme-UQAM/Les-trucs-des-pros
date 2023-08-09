@@ -10,7 +10,7 @@ Google vous permet de recevoir des [alertes si des mots-clés apparaissent sur d
 
 Si vous devez consulter régulièrement une page web donnée pour voir s’il y a eu des changements, vous pourriez vous faciliter la vie en demandant à un robot de faire ces vérifications à votre place. Le service [**Follow that Page**](https://www.followthatpage.com/) est gratuit. Il vérifie chaque jour (vous pouvez demander aussi à ce que la vérification soit effectuée plus souvent, moyennant des frais) et vous envoie un courriel dès qu’un changement (un ajout, sinon une information retranchée ou modifiée) est remarqué.
 
-Le service VisualPing fait la même chose, mais surveille même les changements dans l'aspect visuel des pages web! [https://visualping.io/](https://visualping.io/)
+Le service [**VisualPing**](https://visualping.io/) fait la même chose, mais surveille même les changements dans l'aspect visuel des pages web!
 
 <figure><img src="../.gitbook/assets/visualping.png" alt="" width="375"><figcaption></figcaption></figure>
 
