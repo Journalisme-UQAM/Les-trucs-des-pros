@@ -6,15 +6,15 @@ description: "Plutôt que de laisser l'IA faire le travail pour vous, travailler
 
 ## Génération de texte
 
-* \[**ChatGPT**]\([https://chat.openai.com/](https://chat.openai.com/)) n'a plus besoin de présentation.
-* **Bard** [https://bard.google.com/?hl=fr](https://bard.google.com/?hl=fr), de Google, n'est pas encore disponible au Canada, mais peut être utilisé au moyen d'un VPN.
-* **Rytr** est un autre outil générateur de texte.  [https://app.rytr.me/create](https://app.rytr.me/create)
-* Le logiciel navigateur **Opera**  [https://www.opera.com/fr](https://www.opera.com/fr)vient avec un outil d'aide à la rédaction intégré et baptisé **Aria**.
+* [**ChatGPT**](https://chat.openai.com/) n'a plus besoin de présentation.
+* [**Bard**](https://bard.google.com/?hl=fr), de Google, n'est pas encore disponible au Canada, mais peut être utilisé au moyen d'un VPN.
+* [**Rytr**] est un autre outil générateur de texte.
+* Le logiciel navigateur [**Opera**](https://www.opera.com/fr)vient avec un outil d'aide à la rédaction intégré et baptisé **Aria**.
 
 ## Génération d'images
 
-* Midjourney [https://www.midjourney.com/app/](https://www.midjourney.com/app/)
-* Dall•E 2 [https://labs.openai.com/](https://labs.openai.com/)
+* [**Midjourney**](https://www.midjourney.com/app/)
+* [**Dall•E 2**](https://labs.openai.com/)
 
 ## Génération de musique
 
@@ -22,15 +22,13 @@ yo
 
 ## Génération de vidéo
 
-* **Runway** [https://runwayml.com/ai-magic-tools/gen-2/](https://runwayml.com/ai-magic-tools/gen-2/). Ce n'est qu'un début assez imparfait, mais c'est intéressant!
-
+* [**Runway**](https://runwayml.com/ai-magic-tools/gen-2/). Ce n'est qu'un début assez imparfait, mais c'est intéressant!
 
 
 ## Retranscriptions (audio -> texte)
 
-Le meilleur outil de retranscription est [**GoodTape**](https://www.mygoodtape.com/). Il permet notamment de générer des fichiers de sous-titres pour des vidéos que vous souhaiteriez téléverser dans YouTube, par exemple.
-
-
+* Le meilleur outil de retranscription est [**GoodTape**](https://www.mygoodtape.com/). Il permet notamment de générer des fichiers de sous-titres pour des vidéos que vous souhaiteriez téléverser dans YouTube, par exemple.
+* OpenAI offre également [**Whisper**](https://openai.com/research/whisper). Il faut cependant coder pour l'utiliser directement. Certaines apps qui l'utilisent commencent cependant à apparaître, notamment sur le [Apple Store](https://apps.apple.com/us/app/whisper-transcription/id1668083311?mt=12).
 
 ***
 
