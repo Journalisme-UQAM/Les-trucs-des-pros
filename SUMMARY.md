@@ -25,9 +25,11 @@
 * [🕸 Analyse web](outils-denquete/analyse-web.md)
 * [📸 Analyse d'images](outils-denquete/analyse-dimages.md)
 * [📱 Réseaux sociaux](outils-denquete/reseaux-sociaux.md)
-* [🕵♀ 🕵♀ Autres outils](outils-denquete/autres-outils.md)
+* [🕵♀ 🕵♀ 🕵♀ Autres outils](outils-denquete/autres-outils.md)
 
-## Aller plus loin
+## Encore plus loin
 
-* [⏰ Outils de veille](aller-plus-loin/outils-de-veille.md)
-* [🤖 Automatisation](aller-plus-loin/automatiser-les-affaires-plates.md)
+* [⏰ Outils de veille](encore-plus-loin/outils-de-veille.md)
+* [📈 Données](encore-plus-loin/donnees.md)
+* [🤖 Automatisation](encore-plus-loin/automatiser-les-affaires-plates.md)
+* [🧰 Boîte IA outils](encore-plus-loin/boite-ia-outils.md)
