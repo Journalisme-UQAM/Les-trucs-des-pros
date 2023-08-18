@@ -24,6 +24,10 @@ Si vous vous faites des recherches historiques et que vous vous intéressez à u
 
 Si le REQ ne trouve pas une entreprise que vous cherchez, il se peut qu’il s’agisse plutôt d’une société de régime fédéral. C’est alors [**Corporations Canada**](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=fr\_CA) qui peut vous aider à en trouver les administrateurs.
 
+Il est désormais possible de commander immédiatement des copies des documents corporatifs d'une société canadienne si vous avez besoin de savoir quand, au juste, une personne a commencé ou cessé d'administrer ou d'être actionnaire de cette société.
+
+<figure><img src="../.gitbook/assets/canadaCorp.png" alt=""><figcaption></figcaption></figure>
+
 ### OpenCorporates
 
 <figure><img src="../.gitbook/assets/opencorporates.png" alt="" width="563"><figcaption></figcaption></figure>
