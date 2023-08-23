@@ -39,3 +39,9 @@ Eh bien cet outil est apparu en 2014. Il s’agit d’[**OpenCorporates**](https
 C'est un site auquel il vaut la peine de s'inscrire!
 
 Le gouvernement du Québec a cependant demandé à OpenCorporates de cesser de glaner son Registraire des entreprises pour y moissonner des données. Ce à quoi OpenCorporates a rétorqué par [une poursuite](https://www.lapresse.ca/techno/201704/06/01-5085945-quebec-poursuivi-par-la-plus-grande-banque-de-donnees-dentreprises-au-monde.php), qu’elle [a gagnée](https://www.canlii.org/fr/qc/qccs/doc/2019/2019qccs3801/2019qccs3801.html?searchUrlHash=AAAAAQAQIk9wZW5Db3Jwb3JhdGVzIgAAAAAB\&resultIndex=1). Ouf!
+
+***
+
+<figure><img src="http://www.sirene.fr/static-resources/img/logo-sirene.png" alt=""><figcaption></figcaption></figure>
+
+L'équivalent en France est **Sirène** ([http://www.sirene.fr/sirene/public/accueil](http://www.sirene.fr/sirene/public/accueil)), qui permet d'obtenir quelques informations sur des sociétés établies dans l'Hexagone 🇫🇷.
