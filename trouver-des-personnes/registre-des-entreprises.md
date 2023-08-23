@@ -44,4 +44,4 @@ Le gouvernement du Québec a cependant demandé à OpenCorporates de cesser de g
 
 <figure><img src="http://www.sirene.fr/static-resources/img/logo-sirene.png" alt=""><figcaption></figcaption></figure>
 
-L'équivalent en France est **Sirène** ([http://www.sirene.fr/sirene/public/accueil](http://www.sirene.fr/sirene/public/accueil)), qui permet d'obtenir quelques informations sur des sociétés établies dans l'Hexagone 🇫🇷.
+L'équivalent en France est [**Sirène**](http://www.sirene.fr/sirene/public/accueil), qui permet d'obtenir quelques informations sur des sociétés établies dans l'Hexagone 🇫🇷.
