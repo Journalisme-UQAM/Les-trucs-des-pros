@@ -18,12 +18,11 @@ description: "Plutôt que de laisser l'IA faire le travail pour vous, travailler
 
 ## Génération de musique
 
-yo
+* J'ai essayé [**Mubert**](https://mubert.com), mais il en existe quantité d'autres!
 
 ## Génération de vidéo
 
 * [**Runway**](https://runwayml.com/ai-magic-tools/gen-2/). Ce n'est qu'un début assez imparfait, mais c'est intéressant!
-
 
 ## Retranscriptions (audio -> texte)
 
