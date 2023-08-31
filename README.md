@@ -9,6 +9,12 @@ coverY: 0
 
 # 🔎 Les trucs des pros
 
+<div align="left">
+
+<figure><img src=".gitbook/assets/menu.jpg" alt=""><figcaption><p>↖️ <em>Menu en haut à gauche</em></p></figcaption></figure>
+
+</div>
+
 ## **Pour aller plus loin**
 
 Quand on fait de la recherche ou de la vérification, en journalisme, on peut bien entendu se servir de [Google](https://www.google.ca/), de [DuckDuckGo](https://duckduckgo.com), de [Bing](https://www.bing.com), ou de tout autre moteur de recherche. Mais [même si on le fait comme un chef](http://bit.ly/googchef), d’innombrables ressources restent hors de portée, car les moteurs de recherche n’indexent pas tout.
