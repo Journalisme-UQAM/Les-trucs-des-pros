@@ -9,7 +9,7 @@ description: "Plutôt que de laisser l'IA faire le travail pour vous, travailler
 * [**ChatGPT**](https://chat.openai.com/) n'a plus besoin de présentation.
 * [**Bard**](https://bard.google.com/?hl=fr), de Google, n'est pas encore disponible au Canada, mais peut être utilisé au moyen d'un VPN.
 * [**Rytr**](https://app.rytr.me/create) est un autre outil générateur de texte.
-* Le logiciel navigateur [**Opera**](https://www.opera.com/fr)vient avec un outil d'aide à la rédaction intégré et baptisé **Aria**.
+* Le logiciel navigateur [**Opera**](https://www.opera.com/fr) vient avec un outil d'aide à la rédaction intégré et baptisé **Aria**.
 
 ## Génération d'images
 
