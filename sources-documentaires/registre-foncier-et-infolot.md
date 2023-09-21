@@ -6,7 +6,7 @@ Ensuite, grâce au **numéro de lot** qui se trouve sur la fiche d’évaluation
 
 Vous pouvez d’abord localiser le lot sur [**Infolot**](https://appli.mern.gouv.qc.ca/infolot/), une carte interactive du cadastre du Québec offerte par le ministère des Ressources naturelles.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*zyXBOn39J3ExYZzU6yVRLw.png" alt="" height="377" width="700"><figcaption><p>Être propriétaire, au fond, c’est avoir son petit rectangle de planète Terre</p></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*zyXBOn39J3ExYZzU6yVRLw.png" alt="" height="377" width="700"><figcaption><p>Être propriétaire, au fond, c’est posséder son petit polygone de planète Terre</p></figcaption></figure>
 
 ## Registre foncier
 
