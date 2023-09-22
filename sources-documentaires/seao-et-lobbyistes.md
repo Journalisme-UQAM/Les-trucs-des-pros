@@ -10,7 +10,7 @@ description: >-
 
 ## SEAO (\$$)
 
-Jetez de temps à autre un œil sur le [**Système électronique d’appel d’offres (SÉAO)**](https://seao.ca/). On y fait parfois des trouvailles intéressantes sur les travaux ou les études que veulent entreprendre divers pouvoirs publics (ministères, municipalités, institutions, etc.) S’abonner à ce site était gratuit et permettait de télécharger des plans et devis pouvant receler des informations pertinentes. Mais en 2023, le site est devenu payant. Commander des documents coûte plus de 20 dollars à chaque fois. Une situation que nous allons dénoncer!
+Jetez de temps à autre un œil sur le [**Système électronique d’appel d’offres (SÉAO)**](https://seao.ca/). On y fait parfois des trouvailles intéressantes sur les travaux ou les études que veulent entreprendre divers pouvoirs publics (ministères, municipalités, institutions, etc.) S’abonner à ce site est gratuit et permet de télécharger des plans et devis pouvant receler des informations pertinentes.
 
 Au fédéral, l’outil de recherche des appels d’offres sur les marchés publics s’appelle [**MERX**.](http://www.merx.com/) Il couvre non seulement les agences du gouvernement fédéral, mais aussi les appels d’offres lancés par différentes provinces canadiennes. Utile si vous êtes appelé.e à travailler à l’extérieur du Québec.
 
