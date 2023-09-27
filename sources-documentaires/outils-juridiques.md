@@ -1,6 +1,6 @@
 # ⚖ Outils juridiques
 
-## Horaire des procès
+## Horaire des procès (rôle)
 
 Si vous couvrez un procès, l’outil le plus facile pour savoir quand et où il aura lieu est le [**rôle d’audiences**](http://roles.tribunaux.qc.ca/) des tribunaux du sud du Québec. Les procès sont appelés des dossiers.
 
@@ -31,6 +31,12 @@ Il faut cependant savoir que certains plumitifs sont publiquement accessibles.
 
 * Ceux de la **Cour fédérale** et de la **Cour d’appel fédérale**. Dans cet [**outil de recherche dans ses dossiers de cour**](http://apps.fca-caf.gc.ca/pq/IndexingQueries/infp\_queries\_f.php?stype=party\&select\_court=All), il s’agit de rechercher par « Renseignements sur les parties », puis de cliquer sur le lien « IE » (pour « inscription enregistrée ») pour faire afficher les différentes étapes de la cause qui vous intéresse.
 * Ceux du **Tribunal administratif du travail** (TAT). Il faut d’abord [consulter l’horaire (rôle) d’une cause](https://services.tat.gouv.qc.ca/consultation-role) qui vous intéresse en recherchant par mot-clé. Ce premier outil vous donne ensuite un numéro de dossier que vous pouvez entrer dans ce [deuxième outil (historique d’un dossier)](https://services.tat.gouv.qc.ca/consultation-dossier/) qui vous donne ensuite toutes ses étapes.
+
+## Autre registres juridiques
+
+* Actions collectives ([https://www.registredesactionscollectives.quebec/fr/Consulter/RecherchePublique](https://www.registredesactionscollectives.quebec/fr/Consulter/RecherchePublique))
+* Droits personnels et réels mobiliers [https://www.rdprm.gouv.qc.ca/fr/Pages/Accueil.html](https://www.rdprm.gouv.qc.ca/fr/Pages/Accueil.html) (pour vérifier si certains biens ont été donnés en garantie à
+* Etc [https://www.quebec.ca/justice-et-etat-civil/registres-legaux](https://www.quebec.ca/justice-et-etat-civil/registres-legaux)
 
 ## Conventions collectives
 
