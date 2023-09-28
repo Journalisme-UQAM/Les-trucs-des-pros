@@ -34,9 +34,9 @@ Il faut cependant savoir que certains plumitifs sont publiquement accessibles.
 
 ## Autre registres juridiques
 
-* Actions collectives ([https://www.registredesactionscollectives.quebec/fr/Consulter/RecherchePublique](https://www.registredesactionscollectives.quebec/fr/Consulter/RecherchePublique))
-* Droits personnels et réels mobiliers [https://www.rdprm.gouv.qc.ca/fr/Pages/Accueil.html](https://www.rdprm.gouv.qc.ca/fr/Pages/Accueil.html) (pour vérifier si certains biens ont été donnés en garantie à
-* Etc [https://www.quebec.ca/justice-et-etat-civil/registres-legaux](https://www.quebec.ca/justice-et-etat-civil/registres-legaux)
+* [**Actions collectives**](https://www.registredesactionscollectives.quebec/fr/Consulter/RecherchePublique)
+* [**Droits personnels et réels mobiliers**](https://www.rdprm.gouv.qc.ca/fr/Pages/Accueil.html) (pour vérifier si certains biens ont été donnés en garantie; dans des enquêtes vraiment *deep*).
+* [etc.](https://www.quebec.ca/justice-et-etat-civil/registres-legaux)
 
 ## Conventions collectives
 
