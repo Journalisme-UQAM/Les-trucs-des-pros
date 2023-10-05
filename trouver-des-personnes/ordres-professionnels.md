@@ -9,7 +9,7 @@ Sur les sites des ordres, cherchez le **« Tableau de l’ordre »**, sinon le *
 Voici des liens directs vers les sites des ordres professionnels qui ont le plus souvent affaire à des journalistes:
 
 * le [**Barreau**](https://www.barreau.qc.ca/fr/bottin-des-avocats) (avocats),
-* le [**Collège des médecins**](http:/cmq.org/bottin/index.aspx),
+* le [**Collège des médecins**](http://cmq.org/bottin/index.aspx),
 * l’[**Ordre des ingénieurs**](https://membres.oiq.qc.ca/OIQ/Public/Fr/Bottin/Recherche.aspx).
 
 <figure><img src="https://bottin.uda.ca/assets/logo-uda-black.svg" alt="" width="375"><figcaption></figcaption></figure>
