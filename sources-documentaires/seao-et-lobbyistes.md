@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/logo_seao2.png" alt=""><figcaption></figcaption></figure>
 
-## SEAO (\$$)
+## SEAO
 
 Jetez de temps à autre un œil sur le [**Système électronique d’appel d’offres (SÉAO)**](https://seao.ca/). On y fait parfois des trouvailles intéressantes sur les travaux ou les études que veulent entreprendre divers pouvoirs publics (ministères, municipalités, institutions, etc.) S’abonner à ce site est gratuit et permet de télécharger des plans et devis pouvant receler des informations pertinentes.
 
