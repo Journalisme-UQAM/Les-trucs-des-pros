@@ -20,10 +20,11 @@ Quand les métadonnées sont muettes, vous pouvez vous tourner vers l'un ou l'au
 
 Quatre outils de recherche d'images inversée peuvent être utiles.
 
-* [**TinEye**](https://tineye.com), le plus ancien, ne va que vous permettre de retrouver exactement l'image que vous lui soumettez.
+* [**TinEye**](https://tineye.com), le plus ancien, ne va uniquement vous permettre de retrouver exactement l'image que vous lui soumettez.
 * [**Google Lens**](https://www.google.ca/imghp?hl=fr) est souvent très bon, mais il est davantage conçu comme un outil pour nous aider à magasiner, donc il va parfois focaliser sur les vêtements que la personne porte ou les objets autour plutôt que de nous dire qui apparaît sur la photo ou où est-ce qu'on se trouve (voir exemple en bas de page).
 * [**Bing images**](https://www.bing.com/visualsearch) peut parfois s'avérer une bonne solution de rechange à Google.
 * Le volet images du moteur de recherche russe [**Yandex**](https://yandex.com/images/) peut également être utilisé si les deux précédents ne donnent pas les résultats escomptés.
+* **PimEyes** [https://pimeyes.com](https://pimeyes.com) est d'une redoutable efficacité, mais il est passablement coûteux (\~400 $CAD par an).
 
 ### Qui est sur la photo?
 
