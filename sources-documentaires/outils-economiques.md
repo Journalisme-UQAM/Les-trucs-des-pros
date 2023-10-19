@@ -2,7 +2,7 @@
 
 ## Sociétés cotées à la bourse
 
-Si le journalisme économique vous intéresse, vous trouverez rapidement tous les documents rendus publics par les sociétés canadiennes cotées en bourse grâce au [**Système électronique de données, d’analyse et de recherche (SEDAR)**](https://sedar.com/issuers/issuers\_fr.htm) offert par l’Association canadienne des valeurs mobilières.
+Si le journalisme économique vous intéresse, vous trouverez rapidement tous les documents rendus publics par les sociétés canadiennes cotées en bourse grâce au [**Système électronique de données, d’analyse et de recherche (SEDAR)**](https://www.sedarplus.ca/landingpage/fr/) offert par l’Association canadienne des valeurs mobilières.
 
 <figure><img src="https://www.sedarplus.ca/csa-party/css/images/logo.png" alt=""><figcaption><p>SEDAR a été rénové en 2023 après des décennies d'interface résolument XXe siècle.</p></figcaption></figure>
 
