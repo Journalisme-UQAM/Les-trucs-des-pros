@@ -15,3 +15,9 @@ Voici des liens directs vers les sites des ordres professionnels qui ont le plus
 <figure><img src="https://bottin.uda.ca/assets/logo-uda-black.svg" alt="" width="375"><figcaption></figcaption></figure>
 
 Enfin, ce ne sont pas des professionnel•les au sens légal du terme, mais je sais que plusieurs étudiant•es en journalisme rêvent de culture, alors pour trouver des professionnel•les de la scène, il y a toujours le [**bottin de l’Union des artistes**](https://bottin.uda.ca/).
+
+***
+
+### Experts
+
+Les universités regorgent d'experts. Voici, par exemple, celles et ceux qu'on retrouve à [**l'UQAM**](https://professeurs.uqam.ca) ([version cartographique](https://expertises.uqam.ca/vis/capabilitymap)).

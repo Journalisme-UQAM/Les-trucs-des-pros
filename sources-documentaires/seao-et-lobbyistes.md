@@ -12,6 +12,10 @@ description: >-
 
 Jetez de temps à autre un œil sur le [**Système électronique d’appel d’offres (SÉAO)**](https://seao.ca/). On y fait parfois des trouvailles intéressantes sur les travaux ou les études que veulent entreprendre divers pouvoirs publics (ministères, municipalités, institutions, etc.) S’abonner à ce site est gratuit et permet de télécharger des plans et devis pouvant receler des informations pertinentes.
 
+<figure><img src="../.gitbook/assets/espacedata_logo.jpg" alt=""><figcaption></figcaption></figure>
+
+[**Espace Data**](http://www.espacedata.ca) est un site associé au SEAO qui vous permet de **visualiser** rapidement les contrats publics. Vous vous demandez, par exemple, quelle entreprise a obtenu le plus de contrats d'un organisme public au cours des cinq dernières années? C'est possible de le savoir avec cet outil!
+
 Au fédéral, l’outil de recherche des appels d’offres sur les marchés publics s’appelle [**MERX**.](http://www.merx.com/) Il couvre non seulement les agences du gouvernement fédéral, mais aussi les appels d’offres lancés par différentes provinces canadiennes. Utile si vous êtes appelé.e à travailler à l’extérieur du Québec.
 
 ## Registres des lobbyistes
