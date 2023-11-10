@@ -42,6 +42,6 @@ Le gouvernement du Québec a cependant demandé à OpenCorporates de cesser de g
 
 ***
 
-<figure><img src="http://www.sirene.fr/static-resources/img/logo-sirene.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/inpi.png" alt="" width="173"><figcaption></figcaption></figure>
 
-L'équivalent en France est [**Sirène**](http://www.sirene.fr/sirene/public/accueil), qui permet d'obtenir quelques informations sur des sociétés établies dans l'Hexagone 🇫🇷.
+L'équivalent en France est l[**'INPI**](https://data.inpi.fr), qui permet d'obtenir des informations sommaires sur des sociétés établies dans l'Hexagone 🇫🇷 (via Olivier Picard).
