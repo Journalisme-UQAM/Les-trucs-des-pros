@@ -1,4 +1,4 @@
-# ⚖ Outils juridiques
+# ⚖️ Outils juridiques
 
 ## Horaire des procès (rôle)
 
@@ -21,11 +21,11 @@ Deux autres types d’information publique de nature juridique pourraient vous i
 * Le **dossier criminel** d’un individu.
 * Le **plumitif**, c’est-à-dire l’historique d’une poursuite civile ou criminelle, et ce, même si les démarches n’aboutissent pas à un procès.
 
-### Azimut (\$$$)
+### Plumitif des tribunaux québécois (\$$$)
 
-Dans la plupart des cas, pour accéder à ce type d’information, il faut un outil différent: [**Azimut**](http://soquij.qc.ca/fr/services-aux-professionnels) **(\$$$)**, offert par la Société québécoise d’information juridique (SOQUIJ). Il peut valoir la peine de s’y abonner si vous êtes journaliste indépendant… Mais Azimut reste très coûteux…
+Dans la plupart des cas, pour accéder à ce type d’information, il faut [s'abonner à la Société québécoise d’information juridique (SOQUIJ)](https://soquij.qc.ca/a/fr/produits/plumitifs). L'abonnement coûte 15 dollars par mois. Chaque recherche dans le plumitif coûte ensuite 4 dollars et chaque dossier que vous consultez, 4 dollars supplémentaires. C'est dont très coûteux **(\$$$)**…
 
-### Plumitifs gratuits
+### Plumitifs gratuits!
 
 Il faut cependant savoir que certains plumitifs sont publiquement accessibles.
 
@@ -37,30 +37,3 @@ Il faut cependant savoir que certains plumitifs sont publiquement accessibles.
 * [**Actions collectives**](https://www.registredesactionscollectives.quebec/fr/Consulter/RecherchePublique)
 * [**Droits personnels et réels mobiliers**](https://www.rdprm.gouv.qc.ca/fr/Pages/Accueil.html) (pour vérifier si certains biens ont été donnés en garantie; dans des enquêtes vraiment _deep_).
 * [etc.](https://www.quebec.ca/justice-et-etat-civil/registres-legaux)
-
-## Conventions collectives
-
-<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*ZvSKj0a4PRYclB698cGCFQ.gif" alt="" height="129" width="700"><figcaption><p>L’interface résolument 20e siècle du registre CORAIL.</p></figcaption></figure>
-
-Vous cherchez des **conventions collectives**? L’outil [**CORAIL**](https://www.corail.gouv.qc.ca), du ministère du Travail du Québec peut vous aider à les retrouver si vous devez faire un reportage sur un conflit de travail afin de vérifier les affirmations de toutes les parties. Souvent, ces documents vous permettent de connaître les salaires des employé.e.s touché.e.s par une _grève_ ou un _lock-out_ (attention, d’ailleurs, de ne pas mêler les deux).
-
-## Faillites
-
-<figure><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/New_Cirque_du_Soleil_Logo.png" alt="" width="563"><figcaption><p>Le Cirque du Soleil s'est placé à l'abri de ses créanciers en 2020.</p></figcaption></figure>
-
-Enfin, vous pourriez être appelé à couvrir des « faillites ». Je mets le mot entre guillemets, car avant de faire vraiment faillite, une entreprise va se placer à l’abri de ses créanciers afin de tenter de trouver une solution à ses problèmes financiers.
-
-Deux lois peuvent être utilisées: la **Loi sur la faillite et l’insolvabilité** (LFI) ou la **Loi sur les arrangements avec les créanciers des compagnies** (LACC).
-
-Ces procédures sont publiques et renferment des renseignements très intéressants pour vos reportages.
-
-Les dossiers d’insolvabilité **en cours** qui passent par la LACC sont regroupés par le Bureau du surintendant des faillites du Canada dans cette [**Liste des procédures sous la LACC**](https://www.ic.gc.ca/eic/site/bsf-osb.nsf/fra/h\_br02281.html).
-
-Les dossiers qui passent par la LFI (ou qui sont **fermés** et qu’il pourrait être intéressant de consulter) sont, quant à eux, regroupés dans ce [**Registre des dossiers de faillite et d’insolvabilité**](https://www.ic.gc.ca/app/scr/bsf-osb/ins/connexion.html?lang=fra) **(\$$)**… qui coûte cependant 8$ par consultation…
-
-Quelle que soit la loi utilisée, les dossiers d’insolvabilité **en cours** sont traités par un•e syndic•que ou un•e contrôleur•e. La plupart de ces syndic•ques ou contrôleurs publient la liste des dossiers qu’ils traitent sur leur site. Voici les principaux au Québec:
-
-* [Ernst & Young](https://documentcentre.eycan.com/default.aspx) -> [https://documentcentre.ey.com/#/home](https://documentcentre.ey.com/#/home)
-* [KPMG](https://home.kpmg/ca/fr/home/services/advisory/deal-advisory/creditorlinks.html)
-* [Price Waterhouse Coopers](https://www.pwc.com/ca/fr/services/insolvency-assignments.html)
-* [Raymond Chabot](https://www.raymondchabot.com/dossiers-publics/)
