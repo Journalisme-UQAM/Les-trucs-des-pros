@@ -20,6 +20,6 @@ Il est cependant un peu plus complexe et ses conditions de gratuité sont moins 
 
 Il pourrait arriver, enfin, que vous souhaitiez automatiser quelque chose, mais qu’aucun service pour y parvenir ne soit déjà offert sur le web. C’est dans ces moments qu’il peut être utile d’avoir des amis chez les geeks pour leur demander s’ils peuvent programmer quelque chose pour vous. Ou encore de programmer soi-même les tâches qu’on veut automatiser.
 
-On entre alors dans le territoire du datajournalisme avancé, et c'est l'objet du cours [**EDM4466 - Journalisme de données 2**](https://journalisme-uqam.gitbook.io/edm4466-h2023/). En cliquant sur le lien, vous arrivez au plan de cours de la plus récente itération. C'est un cours qui devrait vous donner des ailes, que vous devriez trouver, comme on dit en anglais, _empowering_! :muscle:
+On entre alors dans le territoire du datajournalisme avancé, et c'est l'objet du cours [**EDM4466 - Journalisme de données 2**](https://journalisme-uqam.gitbook.io/edm4466-h2024). En cliquant sur le lien, vous arrivez au plan de cours de la plus récente itération. C'est un cours qui devrait vous donner des ailes, que vous devriez trouver, comme on dit en anglais, _empowering_! :muscle:
 
 <figure><img src="../.gitbook/assets/edm4466.png" alt=""><figcaption></figcaption></figure>
