@@ -4,6 +4,10 @@ description: "Plutôt que de laisser l'IA faire le travail pour vous, travailler
 
 # 🧰 Boîte IA outils
 
+## Plusieurs outils
+
+* [**Poe**](https://poe.com/) regroupe plusieurs outils de génération de texte ou d'image et vous permet de les essayer gratuitement.
+
 ## Génération de texte
 
 * [**ChatGPT**](https://chat.openai.com/) n'a plus besoin de présentation.
