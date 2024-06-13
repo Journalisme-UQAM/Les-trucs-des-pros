@@ -34,7 +34,7 @@ Il faut cependant savoir que certains plumitifs sont publiquement accessibles.
 
 ## Retranscription d'un dossier
 
-Il est possible de [demander la retranscription d'un dossier](https://www.quebec.ca/justice-et-etat-civil/services/transcription-dossier). Cette retranscription contient « soit ce qui a été dit pendant un procès; soit un autre document qui fait partie du dossier d’un procès. » (Merci à Olivier Larose-Desnoyers pour le tuyau).
+Il est possible de [demander la **retranscription d'un dossier**](https://www.quebec.ca/justice-et-etat-civil/services/transcription-dossier). Cette retranscription contient « soit ce qui a été dit pendant un procès; soit un autre document qui fait partie du dossier d’un procès. » (Merci à Olivier Larose-Desnoyers pour le tuyau).
 
 ## Autre registres juridiques
 
