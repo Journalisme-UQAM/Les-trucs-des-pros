@@ -32,9 +32,9 @@ Il faut cependant savoir que certains plumitifs sont publiquement accessibles.
 * Ceux de la **Cour fédérale** et de la **Cour d’appel fédérale**. Dans cet [**outil de recherche dans ses dossiers de cour**](https://www.fct-cf.gc.ca/fr/dossiers-de-la-cour-et-decisions/dossiers-de-la-cour), il s’agit de rechercher par « Renseignements sur les parties », puis de cliquer sur la loupe (🔍) sous la colonne « en savoir plus » pour faire afficher les différentes étapes de la cause qui vous intéresse.
 * Ceux du **Tribunal administratif du travail** (TAT). Il faut d’abord [consulter l’horaire (rôle) d’une cause](https://services.tat.gouv.qc.ca/consultation-role) qui vous intéresse en recherchant par mot-clé. Ce premier outil vous donne ensuite un numéro de dossier que vous pouvez entrer dans ce [deuxième outil (historique d’un dossier)](https://services.tat.gouv.qc.ca/consultation-dossier/) qui vous donne ensuite toutes ses étapes.
 
-## Retranscription d'un dossier
+## Retranscription d'un dossier (\$$)
 
-Il est possible de [demander la **retranscription d'un dossier**](https://www.quebec.ca/justice-et-etat-civil/services/transcription-dossier). Cette retranscription contient « soit ce qui a été dit pendant un procès; soit un autre document qui fait partie du dossier d’un procès. » (Merci à Olivier Larose-Desnoyers pour le tuyau).
+Il est possible de [demander la **retranscription d'un dossier**](https://www.quebec.ca/justice-et-etat-civil/services/transcription-dossier). Cette retranscription contient « soit ce qui a été dit pendant un procès; soit un autre document qui fait partie du dossier d’un procès. » Ce n'est pas un service gratuit, par contre... (Merci à Olivier Larose-Desnoyers pour le tuyau).
 
 ## Autre registres juridiques
 
