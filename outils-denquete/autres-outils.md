@@ -6,7 +6,7 @@
 
 Excellent ouvrage. _**À LIRE**_!
 
-<figure><img src=".gitbook/assets/HLR.png" alt="" width="150"><figcaption><a href="https://hacksandleaks.com/" target="_blank">Hacks, Leaks, and Revelations</a></figcaption></figure>
+<figure><img src="../.gitbook/assets/HLR.png" alt="" width="150"><figcaption><a href="https://hacksandleaks.com/" target="_blank">Hacks, Leaks, and Revelations</a></figcaption></figure>
 
 ## IntelTechniques
 
