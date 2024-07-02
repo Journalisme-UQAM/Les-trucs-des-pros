@@ -31,7 +31,7 @@ Cette page est une ressource en ligne destinée d’abord et avant tout aux pers
 
 La philosphie qui sous-tend ce site est bien encapsulée par cet ouvrage que je vous enjoins de lire&nbsp;:
 
-<figure><a href="https://hacksandleaks.com/" target="_blank"><img src="https://hacksandleaks.com/images/cover.png" alt="" width="150"><figcaption></figcaption></a></figure>
+<a href="https://hacksandleaks.com/" target="_blank"><img src="https://hacksandleaks.com/images/cover.png" alt="" width="150"></a>
 
 _Les différents sites indiqués sur cette page ont été colligés à partir de la fin des années 1990 en travaillant comme journaliste sur une multitude de dossiers. La liste de ces ressources a également été enrichie à l’occasion de ma participation comme co-formateur aux séances de formation sur la recherche avancée sur le web conçues par **Benoît Michaud** et **Frédéric Zalac**, à Radio-Canada, au milieu de la décennie 2000._
 
