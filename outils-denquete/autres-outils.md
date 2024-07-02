@@ -1,6 +1,12 @@
-# 🕵♀ Autres outils
+# 🕵️‍♀️ 🕵♀ Autres outils
 
 <figure><img src="../.gitbook/assets/char.jpg" alt=""><figcaption><p>Non, il n'existe pas de base de données des numéros de plaques minéralogiques au Canada. Aux États-Unis, cependant, c'est possible d'obtenir des infos avec un numéro de plaque et l'État qui l'a émise.</p></figcaption></figure>
+
+## Hacks, Leaks, and Revelations
+
+Excellent ouvrage. _**À LIRE**_!
+
+<figure><img src="https://hacksandleaks.com/images/cover.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## IntelTechniques
 
@@ -15,7 +21,7 @@ Michael Bazell, auteur d'[**IntelTechniques**](https://inteltechniques.com/tools
 
 Une des recommandations de M. Bazell est de penser aux nombreux services infonuagiques qui hébergent des documents au cas où une organisation qui vous intéresse a partagé par mégarde un document donné. Vous pouvez y farire des recherches Google avec l'opérateur `site:`.
 
-Voici quelques exemples :&#x20;
+Voici quelques exemples :
 
 * **Google Docs** -> `site:docs.google.com "expression recherchée"`
 * **Google Docs** (autre nom de domaine) -> `site:drive.google.com "expression recherchée"`
