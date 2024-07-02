@@ -27,7 +27,11 @@ Pour faire des recherches plus poussées, qu’il s’agisse de trouver des pers
 
 <figure><img src=".gitbook/assets/webinvisible.jpg" alt="" width="563"><figcaption><p>Image générée par DALL•E 2 avec la commande : « Le web invisible est comme la partie immergée de l’iceberg »,</p></figcaption></figure>
 
-Cette page est une ressource en ligne destinée d’abord et avant tout aux personnes étudiantes du [programme de journalisme de l’UQAM](https://journalisme.uqam.ca/) inscrites au cours [EDM1400 — Méthodologie de la recherche en journalisme](https://etudier.uqam.ca/cours?sigle=EDM1400).
+Cette page est une ressource en ligne destinée d’abord et avant tout aux personnes étudiantes du [programme de journalisme de l’UQAM](https://journalisme.uqam.ca/) inscrites au cours [EDM1400 — Méthodologie de la recherche en journalisme](https://etudier.uqam.ca/cours?sigle=EDM1400). Mais vous pouvez y revenir aussi souvent que nécessaire!
+
+La philosphie qui sous-tend ce site est bien encapsulée par cet ouvrage que je vous enjoins de lire&nbsp;:
+
+<figure><a href="https://hacksandleaks.com/" target="_blank"><img src="https://hacksandleaks.com/images/cover.png" alt="" width="150"><figcaption></figcaption></a></figure>
 
 _Les différents sites indiqués sur cette page ont été colligés à partir de la fin des années 1990 en travaillant comme journaliste sur une multitude de dossiers. La liste de ces ressources a également été enrichie à l’occasion de ma participation comme co-formateur aux séances de formation sur la recherche avancée sur le web conçues par **Benoît Michaud** et **Frédéric Zalac**, à Radio-Canada, au milieu de la décennie 2000._
 
