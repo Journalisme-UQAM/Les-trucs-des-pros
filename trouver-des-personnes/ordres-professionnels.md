@@ -22,6 +22,6 @@ Enfin, ce ne sont pas des professionnel•les au sens légal du terme, mais je s
 
 Les universités regorgent d'expert•es. Voici, par exemple, celles et ceux qu'on retrouve à [**l'UQAM**](https://professeurs.uqam.ca) ([version cartographique](https://expertises.uqam.ca/vis/capabilitymap)).
 
-Les femmes sont encore moins souvent citées comme expertes dans les médias. Contribuez à rééquilibrer les choses avec [ce répertoire](https://femmesexpertes.ca/trouver-expertes/):&#x20;
+Les femmes demeurent moins souvent citées comme expertes dans les médias. Contribuez à rééquilibrer les choses avec [ce répertoire](https://femmesexpertes.ca/trouver-expertes/):&#x20;
 
 <figure><img src="../.gitbook/assets/femmExpertes.png" alt=""><figcaption></figcaption></figure>
