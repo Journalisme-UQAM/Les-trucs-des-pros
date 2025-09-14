@@ -4,7 +4,7 @@ description: >-
   soient de plus en plus muselés, il y a les fonctionnaires.
 ---
 
-# ✏ Fonctionnaires
+# ✏️ Fonctionnaires
 
 ## Fonction publique fédérale
 
@@ -24,4 +24,4 @@ Au provincial, on trouve rapidement les numéros de poste des fonctionnaires gr�
 
 ## Municipalités
 
-Il n’existe pas de bottin unifié pour les villes et villages du Québec. Mais le [**Répertoire des municipalités**](https://www.mamh.gouv.qc.ca/repertoire-des-municipalites/) vous donne d’autres informations utiles, notamment le gentilé à utiliser dans vos reportages (si vous racontez que les Campivallensiens sont sous le choc, vous êtes [où](https://www.mamh.gouv.qc.ca/recherche-avancee/fiche/municipalite/70052/)?)
+Il n’existe pas de bottin unifié pour les villes et villages du Québec. Mais le [**Répertoire des municipalités**](https://www.quebec.ca/gouvernement/portrait-quebec/repertoire-municipalites) vous donne d’autres informations utiles, notamment le gentilé à utiliser dans vos reportages (si vous racontez que les Campivallensiens sont sous le choc, vous êtes [où](https://www.quebec.ca/gouvernement/portrait-quebec/repertoire-municipalites?field=municipalite\&municipalite=70052)?)
