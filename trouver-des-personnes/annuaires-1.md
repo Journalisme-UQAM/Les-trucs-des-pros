@@ -2,11 +2,11 @@
 
 ## Annuaires téléphoniques
 
-Il n’existe pas de répertoire gratuit de numéros de téléphone cellulaire. Pareil outil serait pratique, car de moins en moins de gens possèdent une ligne téléphonique terrestre. [**Canada411**](https://www.fr.canada411.ca/search/address.html) demeure néanmoins utile. Jusqu’en 2014, même l’ex-maire de Laval, Gilles Vaillancourt, y était encore inscrit!
+Il n’existe pas de répertoire gratuit de numéros de téléphone cellulaire. Pareil outil serait pratique, car les gens qui possèdent encore une ligne téléphonique terrestre sont rarissimes. [**Canada411**](https://www.fr.canada411.ca/search/address.html) demeure néanmoins utile. Jusqu’en 2014, même l’ex-maire de Laval, Gilles Vaillancourt, y était encore inscrit!
 
-Faites-y des recherches par adresse pour trouver le numéro de téléphone qui y est associé, ou encore par code postal, pour rejoindre des voisins.
+Faites-y des recherches [par adresse](https://www.fr.canada411.ca/search/address.html) pour trouver le numéro de téléphone qui y est associé, ou encore [**par code postal**](https://www.fr.canada411.ca/recherche-par-code-postal/), pour rejoindre des voisins. Certains ont des numéros qui ressemblent à des numéros de cellulaire.
 
-<figure><img src="../.gitbook/assets/ canada411.png" alt="" width="563"><figcaption><p>Interface de Canada411</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Canada411.png" alt=""><figcaption><p>Résultats de recherche par code postal dans Canada411</p></figcaption></figure>
 
 ## Truc Google pour trouver des numéros de cellulaire
 
@@ -52,5 +52,5 @@ Si vous ne voyez aucune coordonnée, on vous fournit peut-être des instructions
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*Rqcp4F2Md2jS9FDyh49c0w.png" alt="" height="96" width="700"><figcaption><p>Lisez bien les résultats après un « whois ».</p></figcaption></figure>
 
-L’identité des gens qui ont enregistré un nom de domaine se terminant par **.ca** est protégée et n’est pas divulguée par un simple _whois_. Il est cependant possible de l’obtenir en passant par le site de l’[**Autorité canadienne pour les enregistrements Internet (ACEI)**](https://acei.ca/noms-de-domaine-ca/whois) qui propose un formulaire d’envoi de message au ou à la propriétaire… qui vous répond seulement s’il le veut bien.
+L’identité des gens qui ont enregistré un nom de domaine se terminant par **.ca** est protégée et n’est pas divulguée par un simple _whois_. Il est cependant possible de l’obtenir en passant par le site de l’[**Autorité canadienne pour les enregistrements Internet (ACEI)**](https://acei.ca/noms-de-domaine-ca/whois) qui propose un formulaire d’envoi de message à la personne qui le possède... seulement si cela lui sied.
 
