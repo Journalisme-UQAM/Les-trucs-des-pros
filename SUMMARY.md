@@ -34,4 +34,3 @@
 * [🤖 Automatisation](encore-plus-loin/automatiser-les-affaires-plates.md)
 * [🧰 Boîte IA outils](encore-plus-loin/boite-ia-outils.md)
 * [💻 En terminant...](encore-plus-loin/fin.md)
-* 
