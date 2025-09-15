@@ -54,3 +54,5 @@ Si vous ne voyez aucune coordonnée, on vous fournit peut-être des instructions
 
 L’identité des gens qui ont enregistré un nom de domaine se terminant par **.ca** est protégée et n’est pas divulguée par un simple _whois_. Il est cependant possible de l’obtenir en passant par le site de l’[**Autorité canadienne pour les enregistrements Internet (ACEI)**](https://acei.ca/noms-de-domaine-ca/whois) qui propose un formulaire d’envoi de message à la personne qui le possède... seulement si cela lui sied.
 
+<figure><img src="../.gitbook/assets/cira.png" alt=""><figcaption></figcaption></figure>
+

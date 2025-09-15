@@ -4,9 +4,14 @@ description: ❤️
 
 # 🏭 Registre des entreprises
 
-Le plus utile de tous les outils de recherche offerts gratuitement par l’État québécois est sans contredit le [**Registre des entreprises (REQ**](https://www.quebec.ca/entreprises-et-travailleurs-autonomes/obtenir-renseignements-entreprise/recherche-registre-entreprises/acceder-registre-entreprises)**)**. Il permet non seulement de savoir à qui appartient une société ou qui sont les administrateurs d’un organisme sans but lucratif, mais également de connaître leur adresse personnelle. À la fois fantastique et troublant.
+Le plus utile de tous les outils de recherche offerts gratuitement par l’État québécois est sans contredit le [**Registre des entreprises (REQ**](https://www.quebec.ca/entreprises-et-travailleurs-autonomes/obtenir-renseignements-entreprise/recherche-registre-entreprises/acceder-registre-entreprises)**)**. Il permet non seulement de savoir à qui appartient une société ou qui sont les administrateurs d’un organisme sans but lucratif, mais il permet également, dans bien des cas, de connaître leur adresse personnelle. À la fois fantastique et troublant.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:1304/1*-wQS8YKWzl2O7ZFqTn9AUw.png" alt="" height="105" width="652"><figcaption><p>Le REQ contient, notamment, l’adresse personnelle de l’ex-chef du Parti québécois.</p></figcaption></figure>
+Le REQ permet ainsi de faire des recherches:
+
+* Par nom d'entreprise
+* Par nom d'individu (actionnaire ou administrateur)
+
+<figure><img src="../.gitbook/assets/molson.png" alt=""><figcaption><p>Il est parfois possible de trouver les adresses personnelles de membres éminents de la société québécoise.</p></figcaption></figure>
 
 Quelques réflexes pour trouver des personnes dans le REQ:
 
@@ -22,7 +27,7 @@ Si vous vous faites des recherches historiques et que vous vous intéressez à u
 
 ### Corporations Canada
 
-Si le REQ ne trouve pas une entreprise que vous cherchez, il se peut qu’il s’agisse plutôt d’une société de régime fédéral. C’est alors [**Corporations Canada**](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=fr\_CA) qui peut vous aider à en trouver les administrateurs.
+Si le REQ ne trouve pas une entreprise que vous cherchez, il se peut qu’il s’agisse plutôt d’une société de régime fédéral. C’est alors [**Corporations Canada**](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=fr_CA) qui peut vous aider à en trouver les administrateurs.
 
 Il est désormais possible de commander immédiatement des copies des documents corporatifs d'une société canadienne si vous avez besoin de savoir quand, au juste, une personne a commencé ou cessé d'administrer ou d'être actionnaire de cette société.
 
