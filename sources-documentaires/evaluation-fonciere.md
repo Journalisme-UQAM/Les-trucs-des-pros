@@ -4,11 +4,9 @@ description: Ou Rôle d'évaluation. Une mine d'or de renseignements.
 
 # 🏠 Évaluation foncière
 
-Une fois que vous avez trouvé l’adresse de quelqu’un grâce au REQ ou à OpenCorporates, vous pouvez aller plus loin en dénichant **l’évaluation de sa propriété**.
+Une fois que vous avez trouvé l’adresse de quelqu’un grâce à un registre des entreprises, vous pouvez souvent **vérifier** si vous avez la bonne adresse grâce à **l’évaluation de sa propriété**.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*zw-5QQ31u6E4twGyytbvtQ.png" alt="" height="530" width="700"><figcaption><p>Mais qui donc habite ici?</p></figcaption></figure>
-
-La majorité des municipalités du Québec offrent un outil de recherche public et gratuit pour consulter leur **rôle d’évaluation**. [Les municipalités qui le font sont répertoriées par le site web _Québec municipal_](http://www.quebecmunicipal.qc.ca/index.asp?module=roles).
+La majorité des municipalités du Québec offrent un outil de recherche public et gratuit pour consulter leur **rôle d’évaluation**.
 
 Les municipalités utilisent différents systèmes, dont certains semblent tout droit sortis des années 1990, mais ils se ressemblent tous. Il suffit généralement de chercher, sur la page d’accueil de la municipalité qui nous intéresse, la section appelée **« Évaluation foncière »** ou **« Rôle d’évaluation »**, puis d’entrer l’adresse qu’on cherche.
 
@@ -16,18 +14,23 @@ Quand l’outil de recherche nous demande si on est un•e professionnel•le ou
 
 ## Top-10 des rôles d'évaluation
 
-Voici des liens directs vers les services d’évaluation foncière des 10 municipalités les plus populeuses du Québec:
+Voici des liens directs vers les services d’évaluation foncière des 15 municipalités les plus populeuses du Québec:
 
-* [Agglomération de Montréal](https://servicesenligne2.ville.montreal.qc.ca/sel/evalweb/index) (toutes les municipalités de l’île, incluant les villes défusionnées comme Westmount ou Baie-D’Urfé)
-* [Québec](https://www.ville.quebec.qc.ca/citoyens/taxes\_evaluation/evaluation\_fonciere/role/index.aspx)
-* [Laval](https://www.laval.ca/Pages/Fr/Citoyens/consulter-evaluation-taxation.aspx)
-* [Agglomération de Longueuil](https://www.longueuil.quebec/fr/evaluation-fonciere) (incluant municipalités défusionnées comme Boucherville ou Saint-Bruno)
+* [Agglomération de Montréal](https://montreal.ca/role-evaluation-fonciere) (toutes les municipalités de l’île, incluant les villes défusionnées comme Westmount ou Baie-D’Urfé)
+* [Québec](https://www.ville.quebec.qc.ca/citoyens/taxes_evaluation/evaluation_fonciere/role/index.aspx)
+* [Laval](https://www.laval.ca/taxes-evaluation-fonciere/consulter-role-evaluation-taxation/)
+* [Agglomération de Longueuil](https://www.longueuil.quebec/fr/evaluation-fonciere) (incluant municipalités défusionnées comme Boucherville, Saint-Bruno-de-Montarville ou Brossard)
 * [Gatineau](https://www3.gatineau.ca/servicesenligne/evaluation/)
-* [Sherbrooke](https://www.ville.sherbrooke.qc.ca/services-municipaux/service-des-finances/role-devaluation/)
-* [Saguenay](https://tfp.saguenay.ca/Tfp/asp/tfp.aspx)
+* [Sherbrooke](https://espace-evaluation.sherbrooke.ca/consultation-du-role/recherche)
+* [Saguenay](https://ville.saguenay.ca/services-aux-citoyens/taxes-et-evaluation/logiciel-de-consultation)
 * [Lévis](https://www.ville.levis.qc.ca/taxes-permis-reglements/taxes-evaluation-fonciere/evaluation-proprietes)
 * [Trois-Rivières](http://www.v3r.net/services-au-citoyen/taxes-et-evaluation/evaluation-fonciere)
-* [Terrebonne](http://e-services.acceo.com/immosoft/controller/ImmoNetPub/U4051/trouverParAdresse?fourn\_seq=5)
+* [Terrebonne](http://e-services.acceo.com/immosoft/controller/ImmoNetPub/U4051/trouverParAdresse?fourn_seq=5)
+* [Saint-Jean-sur-Richelieu](https://pdi.pgmunicipal.com/immosoft/controller/ImmoNetPub/U4051/trouverParAdresse?init_mapping=\&fourn_seq=47)
+* [Repentigny](https://pdi.pgmunicipal.com/immosoft/controller/ImmoNetPub/U4051/trouverParAdresse?init_mapping=\&fourn_seq=53)
+* [Saint-Jérôme](https://pdi.pgmunicipal.com/immosoft/controller/ImmoNetPub/U4051/trouverParAdresse?init_mapping=\&fourn_seq=41)
+* [Drummondville](https://pdi.pgmunicipal.com/immosoft/controller/ImmoNetPub/U4051/trouverParAdresse?init_mapping=\&language=fr\&fourn_seq=224)
+* [Granby](https://pdi.pgmunicipal.com/immosoft/controller/ImmoNetPub/U4051/trouverParAdresse?init_mapping=\&fourn_seq=243)
 
 C’est dans la fiche d’une propriété que vous pourrez trouver sa valeur au rôle d’évaluation. À ne pas confondre avec sa valeur sur le marché immobilier. Généralement, la valeur au rôle est inférieure.
 
