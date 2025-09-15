@@ -15,8 +15,8 @@
 * [🏡 Registre foncier et infolot](sources-documentaires/registre-foncier-et-infolot.md)
 * [⚖️ Outils juridiques](sources-documentaires/outils-juridiques.md)
 * [💰 Outils économiques](sources-documentaires/outils-economiques.md)
-* [🗳️ Outils politiques](sources-documentaires/outils-politiques.md)
 * [🧀 SEAO et lobbyistes](sources-documentaires/seao-et-lobbyistes.md)
+* [🗳️ Outils politiques](sources-documentaires/outils-politiques.md)
 * [✈️ Avions et bateaux](sources-documentaires/avions.md)
 * [🦕 Reculer dans le temps](sources-documentaires/reculer-dans-le-temps.md)
 

@@ -1,3 +1,7 @@
+---
+description: Follow the money
+---
+
 # 💰 Outils économiques
 
 ## Sociétés cotées à la bourse
@@ -13,15 +17,7 @@ Deux types de documents peuvent contenir des informations d’intérêt public:
 
 Pour les trouver, faites une recherche avec le nom d'une entreprise qui vous intéresse, puis, dans la section « Type de dossier », entrez des termes associés au type de document qui vous intéresse.
 
-<div>
-
-<figure><img src="../.gitbook/assets/sedar-rapport.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/sedar-sollicitation.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/sedar-rapport.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/sedar-sollicitation.png" alt=""><figcaption></figcaption></figure></div>
 
 L’équivalent américain s’appelle [**EDGAR**](http://www.sec.gov/edgar/searchedgar/companysearch.html). Il est offert par la _Securities and Exchange Commission (SEC)_ des États-Unis.
 
@@ -44,7 +40,7 @@ Deux lois peuvent être utilisées: la **Loi sur la faillite et l’insolvabilit
 
 Ces procédures sont publiques et renferment des renseignements très intéressants pour vos reportages.
 
-Les dossiers d’insolvabilité **en cours** qui passent par la LACC sont regroupés par le Bureau du surintendant des faillites du Canada dans cette [**Liste des procédures sous la LACC**](https://www.ic.gc.ca/eic/site/bsf-osb.nsf/fra/h\_br02281.html).
+Les dossiers d’insolvabilité **en cours** qui passent par la LACC sont regroupés par le Bureau du surintendant des faillites du Canada dans cette [**Liste des procédures sous la LACC**](https://www.ic.gc.ca/eic/site/bsf-osb.nsf/fra/h_br02281.html).
 
 Les dossiers qui passent par la LFI (ou qui sont **fermés** et qu’il pourrait être intéressant de consulter) sont, quant à eux, regroupés dans ce [**Registre des dossiers de faillite et d’insolvabilité**](https://www.ic.gc.ca/app/scr/bsf-osb/ins/connexion.html?lang=fra) **(\$$)**… qui coûte cependant 8$ par consultation…
 
