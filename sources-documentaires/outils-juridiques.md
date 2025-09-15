@@ -6,15 +6,21 @@ Si vous couvrez un procès, l’outil le plus facile pour savoir quand et où il
 
 Un numéro de dossier pourrait vous être utile, également, pour trouver de l’information avec l’outil suivant.
 
-## Jugements
+## Décisions
 
-En effet, pour consulter les **jugements** rendus par presque _tous_ les tribunaux au Canada, de la Cour suprême à la Cour des petites créances de la Nouvelle-Écosse, en passant par la Cour du banc de la reine de l’Alberta ou la Cour supérieure du Québec, ainsi que pour retrouver des **lois**, partout au pays, je vous conseille le site de l’[**Institut canadien d’information juridique**](http://www.canlii.org/fr/index.html) (aussi connu sous son acronyme anglais, **CANLII**). Il contient aussi les décisions de nombreux tribunaux administratifs comme les Conseils de discipline de tous les ordres professionnels au Québec. Et depuis 2020, il est même accessible en _**dark mode**_! 😜
+En effet, pour consulter les **décisions rendues** (ou **jugements)** par presque _tous_ les tribunaux au Canada, de la Cour suprême à la Cour des petites créances de la Nouvelle-Écosse, en passant par la Cour du banc de la reine de l’Alberta ou la Cour supérieure du Québec, ainsi que pour retrouver des **lois**, partout au pays, je vous conseille le site de l’[**Institut canadien d’information juridique**](https://www.canlii.org/?origLang=fr) (aussi connu sous son acronyme anglais, **CanLII**). Il contient aussi les décisions de nombreux tribunaux administratifs comme les Conseils de discipline de tous les ordres professionnels au Québec. Et depuis 2020, il est même accessible en _**dark mode**_! 😜
 
 <figure><img src="https://www.canlii.org/images/canliiLogo.svg" alt="" width="375"><figcaption></figcaption></figure>
 
 Le site [**jugements.qc.ca**](http://citoyens.soquij.qc.ca/) vous permet également d’accéder à des jugements, mais au Québec seulement (avec la Cour suprême du Canada).
 
-## Historique d'une poursuite
+{% hint style="warning" %}
+**Attention!**
+
+Ces bases de données ne contiennent PAS la totalité des décisions. Selon Louis-Samuel Perron, reporter judiciaire à _La Presse_, la moitié seulement des décisions rendues par les tribunaux du Québec seulement s'y retrouverait.
+{% endhint %}
+
+## Historique d'une poursuite : le PLUMITIF
 
 Deux autres types d’information publique de nature juridique pourraient vous intéresser, comme journaliste:
 
@@ -34,7 +40,7 @@ Il faut cependant savoir que certains plumitifs sont publiquement accessibles.
 
 ## Retranscription d'un dossier (\$$)
 
-Il est possible de [demander la **retranscription d'un dossier**](https://www.quebec.ca/justice-et-etat-civil/services/transcription-dossier). Cette retranscription contient « soit ce qui a été dit pendant un procès; soit un autre document qui fait partie du dossier d’un procès. » Ce n'est pas un service gratuit, par contre... (Merci à Olivier Larose-Desnoyers pour le tuyau).
+Il est possible de [demander la **retranscription d'un dossier**](https://www.quebec.ca/justice-et-etat-civil/services/transcription-dossier). Cette retranscription contient « soit ce qui a été dit pendant un procès; soit un autre document qui fait partie du dossier d’un procès ». Ce n'est pas un service gratuit, par contre... (Merci à Olivier Larose-Desnoyers pour le tuyau).
 
 ## Autre registres juridiques
 
