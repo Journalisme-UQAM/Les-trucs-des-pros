@@ -23,7 +23,7 @@ Quatre outils de recherche d'images inversée peuvent être utiles.
 * [**TinEye**](https://tineye.com), le plus ancien, ne va uniquement vous permettre de retrouver exactement l'image que vous lui soumettez.
 * [**Google Lens**](https://www.google.ca/imghp?hl=fr) est souvent très bon, mais il est davantage conçu comme un outil pour nous aider à magasiner, donc il va parfois focaliser sur les vêtements que la personne porte ou les objets autour plutôt que de nous dire qui apparaît sur la photo ou où est-ce qu'on se trouve (voir exemple en bas de page).
 * [**Bing images**](https://www.bing.com/visualsearch) peut parfois s'avérer une bonne solution de rechange à Google.
-* Le volet images du moteur de recherche russe [**Yandex**](https://yandex.com/images/) peut également être utilisé si les deux précédents ne donnent pas les résultats escomptés.
+* Le volet images du moteur de recherche russe [**Yandex**](https://yandex.com/) peut également être utilisé si les deux précédents ne donnent pas les résultats escomptés.
 * [**PimEyes**](https://pimeyes.com) est d'une redoutable efficacité, mais il est passablement **coûteux** (\~400 $CAD par an).
 
 ### Qui est sur la photo?
@@ -34,7 +34,7 @@ J'ai soumis une photo intitulée _dude.jpg_. C'est Google Lens qui a le mieux re
 
 ### Qu'est-ce que c'est?
 
-J'ai soumis une image appelée _egliz.jpg_ et Google Lens a été l'outil qui a réussi à identifier précisément de quelle bâtiment il s'agissait.
+J'ai soumis une image appelée _egliz.jpg_ et Google Lens a été l'outil qui a réussi à identifier précisément de quel bâtiment il s'agissait.
 
 <figure><img src="../.gitbook/assets/megantic.png" alt=""><figcaption><p>Église Sainte-Agnès, située au centre-ville de Lac-Mégantic.</p></figcaption></figure>
 
@@ -65,6 +65,12 @@ Comparez toujours avec des images dont l'authenticité ne fait pas de doute et e
 <figure><img src="../.gitbook/assets/forensicVrai1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/forensicVrai2.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Essayez aussi l'outil _**«String extraction»**_. Pour pourrez voir le _«prompt»_ utilisé pour générer une image avec un outil d'IA générative.
+
+<figure><img src="../.gitbook/assets/nouvelleVague.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/nouvelleVagueEXIF.png" alt=""><figcaption></figcaption></figure>
 
 ## Quand Google se goure
 
