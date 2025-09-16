@@ -32,13 +32,13 @@ Choisissez la [**RECHERCHE AVANCÉE**](https://seao.gouv.qc.ca/recherche-avancee
 
 <figure><img src="../.gitbook/assets/seaoMon.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/achatsCan.png" alt=""><figcaption></figcaption></figure>
-
 ## Achats Canada
+
+<figure><img src="../.gitbook/assets/achatsCan.png" alt=""><figcaption></figcaption></figure>
 
 Au fédéral, l’outil de recherche des appels d’offres sur les marchés publics s’appelle [**Achats Canada**](https://achatscanada.canada.ca/fr). Consultez-y les **occasions de marché**. Il couvre non seulement les agences du gouvernement fédéral, mais aussi les appels d’offres lancés par différentes provinces canadiennes. Utile si vous êtes appelé.e à travailler à l’extérieur du Québec.
 
-###
+
 
 ## Registres des lobbyistes
 
@@ -46,6 +46,4 @@ Au fédéral, l’outil de recherche des appels d’offres sur les marchés publ
 
 Une autre très bonne façon de trouver de la nouvelle dans votre région ou votre secteur d’activité, c’est de consulter régulièrement [**Carrefour Lobby Québec**](https://www.carrefourlobby.quebec/home), le nouveau nom du **Registre des lobbyistes**. En faisant une recherche par municipalité ou par ministère, par exemple, vous êtes en mesure de voir pour quels projets, au juste, des entrepreneurs ou des organismes font des démarches auprès de ces organismes publics.
 
-Le [**Registre fédéral des lobbyistes**](https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/guest?lang=fra) est intéressant pour les mêmes raisons.
-
-Pour comprendre comment fonctionne le lobbying au Québec, visitez [**Lobbying Québec**](https://lobbyisme.quebec/), le site du Commissaire au lobbyisme du Québec.
+🇨🇦 Le [**Registre fédéral des lobbyistes**](https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/guest?lang=fra) est intéressant pour les mêmes raisons. Vous pouvez même vous créer des alertes 🚨 pour être informé de la publication de nouvelles activités de lobbying qui pourraient vous intéresser.
