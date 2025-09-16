@@ -23,8 +23,6 @@ L’équivalent américain s’appelle [**EDGAR**](http://www.sec.gov/edgar/sear
 
 ## Registres de l'AMF
 
-<figure><img src="https://lautorite.qc.ca/typo3conf/ext/amf_site_lautorite/Resources/Public/Assets/img/logo-amf-header.svg" alt=""><figcaption></figcaption></figure>
-
 L'[**Autorité des marchés financiers (AMF)**](https://lautorite.qc.ca) gère [plusieurs registres](https://lautorite.qc.ca/grand-public/registres) qui peuvent vous être utiles dans le cadre d'un reportage, dont:
 
 * [Registre des entreprises et des individus autorisés à exercer](https://lautorite.qc.ca/grand-public/registres/registre-des-entreprises-et-des-individus-autorises-a-exercer) pour vérifier si une personne est autorisée à vendre des produits financiers ou à donner des conseils sur ces produits
@@ -32,7 +30,7 @@ L'[**Autorité des marchés financiers (AMF)**](https://lautorite.qc.ca) gère [
 
 ## Faillites
 
-<figure><img src="https://upload.wikimedia.org/wikipedia/en/a/a2/New_Cirque_du_Soleil_Logo.png" alt="" width="563"><figcaption><p>Le Cirque du Soleil s'est placé à l'abri de ses créanciers en 2020.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/guzzo.png" alt=""><figcaption><p>Ce sont les créanciers des cinémas Guzzo qui se sont servi de la LFI pour récupérer leur argent.</p></figcaption></figure>
 
 Enfin, vous pourriez être appelé à couvrir des « faillites ». Je mets le mot entre guillemets, car avant de faire vraiment faillite, une entreprise va se placer à l’abri de ses créanciers afin de tenter de trouver une solution à ses problèmes financiers.
 
@@ -40,16 +38,16 @@ Deux lois peuvent être utilisées: la **Loi sur la faillite et l’insolvabilit
 
 Ces procédures sont publiques et renferment des renseignements très intéressants pour vos reportages.
 
-Les dossiers d’insolvabilité **en cours** qui passent par la LACC sont regroupés par le Bureau du surintendant des faillites du Canada dans cette [**Liste des procédures sous la LACC**](https://www.ic.gc.ca/eic/site/bsf-osb.nsf/fra/h_br02281.html).
+Les dossiers d’insolvabilité **en cours** qui passent par la LACC sont regroupés par le Bureau du surintendant des faillites du Canada dans cette [**Liste des procédures sous la LACC**](https://ised-isde.canada.ca/site/bureau-surintendant-faillites/fr/recherche-dossiers-LACC-apres-2014).
 
 Les dossiers qui passent par la LFI (ou qui sont **fermés** et qu’il pourrait être intéressant de consulter) sont, quant à eux, regroupés dans ce [**Registre des dossiers de faillite et d’insolvabilité**](https://www.ic.gc.ca/app/scr/bsf-osb/ins/connexion.html?lang=fra) **(\$$)**… qui coûte cependant 8$ par consultation…
 
-Quelle que soit la loi utilisée, les dossiers d’insolvabilité **en cours** sont traités par un•e syndic•que ou un•e contrôleur•e. La plupart de ces syndic•ques ou contrôleurs publient la liste des dossiers qu’ils traitent sur leur site. Voici les principaux au Québec:
+Quelle que soit la loi utilisée, les dossiers d’insolvabilité **en cours** sont traités par un•e syndic ou un•e contrôleur•e. La plupart de ces syndics ou contrôleur•es publient la liste des dossiers qu’ils traitent sur leur site. Voici les principaux au Québec. Il vaut la peine de les consulter, car il arrive que certains dossiers, comme celui de Guzzo par exemple, ne se retrouvent pas dans la Listes des procédures sous la LACC, mais qu'ils soient pourtant bel et bien sur le site du contrôleur (Raymond Chabot dans ce cas-ci):
 
 * [Ernst & Young](https://documentcentre.eycan.com/default.aspx) -> [https://documentcentre.ey.com/#/home](https://documentcentre.ey.com/#/home)
 * [KPMG](https://home.kpmg/ca/fr/home/services/advisory/deal-advisory/creditorlinks.html)
 * [Price Waterhouse Coopers](https://www.pwc.com/ca/fr/services/insolvency-assignments.html)
-* [Raymond Chabot](https://www.raymondchabot.com/dossiers-publics/)
+* [Raymond Chabot](https://www.raymondchabot.com/fr/entreprise/dossiers-publics/)
 
 ## Conventions collectives
 
