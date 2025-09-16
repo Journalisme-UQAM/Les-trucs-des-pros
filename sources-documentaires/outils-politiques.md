@@ -1,4 +1,14 @@
-# 🗳 Outils politiques
+# 🗳️ Outils politiques
+
+## Registres des lobbyistes
+
+<figure><img src="../.gitbook/assets/carrefourLobby.png" alt="" width="366"><figcaption></figcaption></figure>
+
+Une autre très bonne façon de trouver de la nouvelle dans votre région ou votre secteur d’activité, c’est de consulter régulièrement [**Carrefour Lobby Québec**](https://www.carrefourlobby.quebec/home), le nouveau nom du **Registre des lobbyistes**. En faisant une recherche par municipalité ou par ministère, par exemple, vous êtes en mesure de voir pour quels projets, au juste, des entrepreneurs ou des organismes font des démarches auprès de ces organismes publics.
+
+🇨🇦 Le [**Registre fédéral des lobbyistes**](https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/guest?lang=fra) est intéressant pour les mêmes raisons. Vous pouvez même vous créer des alertes 🚨 pour être informé de la publication de nouvelles activités de lobbying qui pourraient vous intéresser.
+
+## Autres registres
 
 Quelques registres peuvent être utiles pour documenter les activités des personnes qui exercent des fonctions électives, que ce soit avant, pendant ou après leur carrière politique.
 
