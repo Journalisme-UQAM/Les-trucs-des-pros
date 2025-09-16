@@ -32,13 +32,11 @@ Choisissez la [**RECHERCHE AVANCÉE**](https://seao.gouv.qc.ca/recherche-avancee
 
 <figure><img src="../.gitbook/assets/seaoMon.png" alt=""><figcaption></figcaption></figure>
 
-## Achats Canada
+### Achats Canada
 
 <figure><img src="../.gitbook/assets/achatsCan.png" alt=""><figcaption></figcaption></figure>
 
-Au fédéral, l’outil de recherche des appels d’offres sur les marchés publics s’appelle [**Achats Canada**](https://achatscanada.canada.ca/fr). Consultez-y les **occasions de marché**. Il couvre non seulement les agences du gouvernement fédéral, mais aussi les appels d’offres lancés par différentes provinces canadiennes. Utile si vous êtes appelé.e à travailler à l’extérieur du Québec.
-
-
+Au fédéral, l’outil de recherche des appels d’offres sur les marchés publics s’appelle [**Achats Canada**](https://achatscanada.canada.ca/fr). Consultez-y les **occasions de marché**. Il couvre non seulement les agences du gouvernement fédéral, mais aussi les appels d’offres lancés par différentes provinces canadiennes. Utile si vous êtes appelé•e à travailler à l’extérieur du Québec.
 
 ## Registres des lobbyistes
 
