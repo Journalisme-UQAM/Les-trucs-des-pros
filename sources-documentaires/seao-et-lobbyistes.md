@@ -4,7 +4,7 @@ description: >-
   d'anticipation de la nouvelle!
 ---
 
-# 🧀 SEAO et lobbyistes
+# 🧀 SEAO et contrats
 
 <figure><img src="../.gitbook/assets/logo_seao2.png" alt=""><figcaption><p>Ancien logo du SÉAO</p></figcaption></figure>
 
@@ -37,6 +37,13 @@ Choisissez la [**RECHERCHE AVANCÉE**](https://seao.gouv.qc.ca/recherche-avancee
 <figure><img src="../.gitbook/assets/achatsCan.png" alt=""><figcaption></figcaption></figure>
 
 Au fédéral, l’outil de recherche des appels d’offres sur les marchés publics s’appelle [**Achats Canada**](https://achatscanada.canada.ca/fr). Consultez-y les **occasions de marché**. Il couvre non seulement les agences du gouvernement fédéral, mais aussi les appels d’offres lancés par différentes provinces canadiennes. Utile si vous êtes appelé•e à travailler à l’extérieur du Québec.
+
+## Divulgation proactive du fédéral
+
+Rendez-vous régulièrement sur une la page de [**divulgation proactive du gouvernement fédéral**](https://ouvert.canada.ca/fr/divulgation-proactive) sur laquelle vous trouverez notamment :
+
+* Tous les [**contrats de plus de 10 000 dollars**](https://rechercher.ouvert.canada.ca/contrats/) par des organismes publics fédéraux
+* Près de 1,1 million de [**subventions**](https://rechercher.ouvert.canada.ca/subventions/) octroyées par des organismes publics fédéraux
 
 ## Registres des lobbyistes
 
