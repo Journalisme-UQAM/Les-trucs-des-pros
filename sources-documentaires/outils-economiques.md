@@ -30,7 +30,7 @@ L'[**Autorité des marchés financiers (AMF)**](https://lautorite.qc.ca) gère [
 
 ## Faillites
 
-<figure><img src="../.gitbook/assets/guzzo.png" alt=""><figcaption><p>Ce sont les créanciers des cinémas Guzzo qui se sont servi de la LFI pour récupérer leur argent.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/guzzo.png" alt=""><figcaption><p>Les créanciers des Cinémas Guzzo se sont servis de la LFI pour récupérer leur argent.</p></figcaption></figure>
 
 Enfin, vous pourriez être appelé à couvrir des « faillites ». Je mets le mot entre guillemets, car avant de faire vraiment faillite, une entreprise va se placer à l’abri de ses créanciers afin de tenter de trouver une solution à ses problèmes financiers.
 
