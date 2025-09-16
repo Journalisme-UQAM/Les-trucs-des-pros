@@ -6,17 +6,39 @@ description: >-
 
 # 🧀 SEAO et lobbyistes
 
-<figure><img src="../.gitbook/assets/logo_seao2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo_seao2.png" alt=""><figcaption><p>Ancien logo du SÉAO</p></figcaption></figure>
 
 ## SEAO
 
-Jetez de temps à autre un œil sur le [**Système électronique d’appel d’offres (SÉAO)**](https://seao.ca/). On y fait parfois des trouvailles intéressantes sur les travaux ou les études que veulent entreprendre divers pouvoirs publics (ministères, municipalités, institutions, etc.) S’abonner à ce site est gratuit et permet de télécharger des plans et devis pouvant receler des informations pertinentes.
+Jetez de temps à autre un œil sur le [**Système électronique d’appel d’offres (SÉAO)**](https://seao.gouv.qc.ca/). On y fait parfois des trouvailles intéressantes sur les travaux ou les études que veulent entreprendre divers pouvoirs publics (ministères, municipalités, institutions, etc.)
 
-<figure><img src="../.gitbook/assets/espacedata_logo.jpg" alt=""><figcaption></figcaption></figure>
+S’abonner à ce site est gratuit, mais il faut passer par là pour télécharger des plans et devis pouvant receler des informations pertinentes.
 
-[**Espace Data**](http://www.espacedata.ca) est un site associé au SEAO qui vous permet de **visualiser** rapidement les contrats publics. Vous vous demandez, par exemple, quelle entreprise a obtenu le plus de contrats d'un organisme public au cours des cinq dernières années? C'est possible de le savoir avec cet outil!
+<figure><img src="../.gitbook/assets/seaoSeConnecter.png" alt=""><figcaption></figcaption></figure>
 
-Au fédéral, l’outil de recherche des appels d’offres sur les marchés publics s’appelle [**MERX**.](http://www.merx.com/) Il couvre non seulement les agences du gouvernement fédéral, mais aussi les appels d’offres lancés par différentes provinces canadiennes. Utile si vous êtes appelé.e à travailler à l’extérieur du Québec.
+Une fois que vous avez créé un compte, il faut se connecter à nouveau par le biais du Service d'authentification gouvernementale À CHAQUE FOIS qu'on veut utiliser le SÉAO. Je sais, c'est GOSSANT! Vous recevrez par courriel un 💀 code de sécurité...
+
+<figure><img src="../.gitbook/assets/seaoCode.png" alt="" width="504"><figcaption></figcaption></figure>
+
+### Votre rôle -> _**Utilisateur spécialiste**_
+
+Une fois ce code entré, vous devez ensuite choisir votre rôle. Choisissez celui d'**utilisateur spécialiste**.
+
+<figure><img src="../.gitbook/assets/seaoRole.png" alt=""><figcaption></figcaption></figure>
+
+Voilà! Vous pouvez désormais faire des recherches dans le SÉAO et surtout télécharger les documents pertinents qui contiennent souvent des informations d'intérêt public (devis, plans, addendas, etc.).
+
+Choisissez la [**RECHERCHE AVANCÉE**](https://seao.gouv.qc.ca/recherche-avancee) pour vous faciliter la vie.
+
+<figure><img src="../.gitbook/assets/seaoMon.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/achatsCan.png" alt=""><figcaption></figcaption></figure>
+
+## Achats Canada
+
+Au fédéral, l’outil de recherche des appels d’offres sur les marchés publics s’appelle [**Achats Canada**](https://achatscanada.canada.ca/fr). Consultez-y les **occasions de marché**. Il couvre non seulement les agences du gouvernement fédéral, mais aussi les appels d’offres lancés par différentes provinces canadiennes. Utile si vous êtes appelé.e à travailler à l’extérieur du Québec.
+
+###
 
 ## Registres des lobbyistes
 
