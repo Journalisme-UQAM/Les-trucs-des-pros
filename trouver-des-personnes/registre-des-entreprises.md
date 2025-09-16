@@ -36,9 +36,17 @@ Au besoin, pour les cas où vous faites une longue enquête ou un documentaire, 
 
 Si le REQ ne trouve pas une entreprise que vous cherchez, il se peut qu’il s’agisse plutôt d’une société de régime fédéral ou qu'elle soit enregistrée dans une autre province.
 
+<figure><img src="../.gitbook/assets/pollos.png" alt=""><figcaption><p>De petits rigolos ont enregistré cette entreprise en Ontario en 2019.</p></figcaption></figure>
+
 Innovation, Sciences et Développement économique Canada a créé un [**outil de recherche pancanadien**](https://ised-isde.canada.ca/cbr-rec/fr/chercher)! Il fouine dans les registres des entreprises de sept provinces canadiennes ainsi que dans le registre fédéral:
 
-* Québec (Registre des entreprises)
+* [Colombie-Britannique](https://www.bcregistry.gov.bc.ca/en-CA) (Business Registry)
+* [Alberta](https://www.servicealberta.gov.ab.ca/consumer/business_search/) (Business Registry)
+* [Saskatchewan](https://www.saskregistries.ca/corporateregistry) (Corporate Registry)
+* [Manitoba](https://companiesoffice.gov.mb.ca/) (Companies Office)
+* [Ontario](https://www.ontario.ca/fr/page/registre-des-entreprises-de-lontario) (Registre des entreprises; payant **(\$$)**)
+* [Québec](https://www.quebec.ca/entreprises-et-travailleurs-autonomes/obtenir-renseignements-entreprise/recherche-registre-entreprises/acceder-registre-entreprises) (Registre des entreprises)
+* [Nouvelle-Écosse](https://beta.novascotia.ca/fr/recherche-de-renseignements-deposes-aupres-du-registre-des-societes-de-capitaux-concernant-une-entreprise-ou-un-organisme-non-lucratif) (Registre des sociétés)
 
 Il est également possible de commander immédiatement des copies des documents corporatifs d'une société canadienne si vous avez besoin de savoir quand, au juste, une personne a commencé ou cessé d'administrer ou d'être actionnaire de cette société.
 
