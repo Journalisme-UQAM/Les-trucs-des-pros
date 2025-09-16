@@ -14,6 +14,7 @@
 * [🏠 Évaluation foncière](sources-documentaires/evaluation-fonciere.md)
 * [🏡 Registre foncier et infolot](sources-documentaires/registre-foncier-et-infolot.md)
 * [⚖️ Outils juridiques](sources-documentaires/outils-juridiques.md)
+* [🐟 Outils environnementaux](sources-documentaires/outils-juridiques-1.md)
 * [💰 Outils économiques](sources-documentaires/outils-economiques.md)
 * [🧀 SEAO et lobbyistes](sources-documentaires/seao-et-lobbyistes.md)
 * [🗳️ Outils politiques](sources-documentaires/outils-politiques.md)
