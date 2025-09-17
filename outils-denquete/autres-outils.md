@@ -6,7 +6,7 @@
 
 Excellent ouvrage. _**À LIRE**_!
 
-<figure><img src="../.gitbook/assets/HLR.png" alt="" width="150"><figcaption><a href="https://hacksandleaks.com/" target="_blank">Hacks, Leaks, and Revelations</a></figcaption></figure>
+<figure><img src="../.gitbook/assets/HLR.png" alt="" width="150"><figcaption><p><a href="https://hacksandleaks.com/">Hacks, Leaks, and Revelations</a></p></figcaption></figure>
 
 ## IntelTechniques
 
@@ -15,6 +15,7 @@ Michael Bazell, auteur d'[**IntelTechniques**](https://inteltechniques.com/tools
 * Réseaux sociaux et communautés (incluant **Reddit** ou **Discord**)
 * Chercher dans le _dark web_ (via réseau Tor)
 * Recherches par nom, par pseudo ou par adresse courriel dans une multitude d'outils
+* Je me suis abonné à [**Intelligence\_X**](https://intelx.io/), qui semble intéressant.
 * etc. (toujours ma catégorie préférée)
 
 ### Recherches dans le nuage
