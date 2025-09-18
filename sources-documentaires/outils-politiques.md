@@ -8,6 +8,10 @@ Une autre très bonne façon de trouver de la nouvelle dans votre région ou vot
 
 🇨🇦 Le [**Registre fédéral des lobbyistes**](https://lobbycanada.gc.ca/app/secure/ocl/lrs/do/guest?lang=fra) est intéressant pour les mêmes raisons. Vous pouvez même vous créer des alertes 🚨 pour être informé de la publication de nouvelles activités de lobbying qui pourraient vous intéresser.
 
+### Accès à l'information
+
+* Recherchez les [**demandes d'accès à l'information antérieures**](https://ouvert.canada.ca/fr/search/ati) auprès d'organismes fédéraux.
+
 ## Autres registres
 
 Quelques registres peuvent être utiles pour documenter les activités des personnes qui exercent des fonctions électives, que ce soit avant, pendant ou après leur carrière politique.
