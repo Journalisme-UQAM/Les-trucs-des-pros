@@ -47,4 +47,5 @@ Il est possible de [demander la **retranscription d'un dossier**](https://www.qu
 * [**Actions collectives**](https://www.registredesactionscollectives.quebec/fr/Consulter/RecherchePublique)
 * [**Registre des condamnations**](https://www.registres.environnement.gouv.qc.ca/condamnations/recherche.asp) (ministère de l'Environnement)
 * [**Droits personnels et réels mobiliers**](https://www.rdprm.gouv.qc.ca/fr/Pages/Accueil.html) (pour vérifier si certains biens ont été donnés en garantie; dans des enquêtes vraiment _deep_).
+* Recherchez les [**demandes d'accès à l'information antérieures**](https://ouvert.canada.ca/fr/search/ati) auprès d'organismes fédéraux.
 * [etc.](https://www.quebec.ca/justice-et-etat-civil/registres-legaux)
