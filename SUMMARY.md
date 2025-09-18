@@ -28,10 +28,9 @@
 * [📱 Réseaux sociaux](outils-denquete/reseaux-sociaux.md)
 * [🕵️‍♀️ 🕵♀ Autres outils](outils-denquete/autres-outils.md)
 
-## Encore plus loin
+## Et plus loin encore
 
-* [⏰ Outils de veille](encore-plus-loin/outils-de-veille.md)
-* [📈 Données](encore-plus-loin/donnees.md)
-* [🤖 Automatisation](encore-plus-loin/automatiser-les-affaires-plates.md)
-* [🧰 Boîte IA outils](encore-plus-loin/boite-ia-outils.md)
-* [💻 En terminant...](encore-plus-loin/fin.md)
+* [⏰ Outils de veille](et-plus-loin-encore/outils-de-veille.md)
+* [📈 Données](et-plus-loin-encore/donnees.md)
+* [🤖 Automatisation](et-plus-loin-encore/automatiser-les-affaires-plates.md)
+* [🧰 Boîte IA outils](et-plus-loin-encore/boite-ia-outils.md)
