@@ -1,5 +1,13 @@
 # 📱 Réseaux sociaux
 
+## Telegram
+
+Depuis juillet 2025, il est possible de faire des recherche dans les publications (publiques) dans des canaux Telegram... Mais cette fonctionnalité n'est accessible que par abonnement. ☠️
+
+Le site [**TelegramSearch**](https://telesearch.info/en/) est une solution de rechange potable.
+
+<figure><img src="../.gitbook/assets/telegramSearch.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## LinkedIn
 
 **LinkedIn** est un réseau social professionnel auquel il peut valoir la peine de s’abonner. Il peut arriver que des gens qu’on recherche y laissent des informations intéressantes sur leur parcours professionnel.
