@@ -8,6 +8,10 @@ Le site [**TelegramSearch**](https://telesearch.info/en/) est une solution de re
 
 <figure><img src="../.gitbook/assets/telegramSearch.png" alt="" width="375"><figcaption></figcaption></figure>
 
+## Discord
+
+L'outil [**Disboard**](https://disboard.org/fr/search) permet de trouver des chaînes en fonction du contenu qu'on y retrouve et non seulement de leur nom. Une recherche avec « Québec », par exemple, va donner plus de résultats que les recherches qu'on peut faire dans la section _« Explore »_ de l'application.
+
 ## LinkedIn
 
 **LinkedIn** est un réseau social professionnel auquel il peut valoir la peine de s’abonner. Il peut arriver que des gens qu’on recherche y laissent des informations intéressantes sur leur parcours professionnel.
