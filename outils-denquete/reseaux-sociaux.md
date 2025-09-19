@@ -12,6 +12,8 @@ Le site [**TelegramSearch**](https://telesearch.info/en/) est une solution de re
 
 L'outil [**Disboard**](https://disboard.org/fr/search) permet de trouver des chaînes en fonction du contenu qu'on y retrouve et non seulement de leur nom. Une recherche avec « Québec », par exemple, va donner plus de résultats que les recherches qu'on peut faire dans la section _« Explore »_ de l'application.
 
+<div align="left"><figure><img src="../.gitbook/assets/red.png" alt=""><figcaption></figcaption></figure></div>
+
 ## Reddit
 
 La [**recherche avancée dans Reddit**](https://support.reddithelp.com/hc/en-us/articles/19696541895316-Available-search-features) dispose de ses **propres opérateurs** comme:
