@@ -10,8 +10,6 @@ Un numéro de dossier pourrait vous être utile, également, pour trouver de l�
 
 En effet, pour consulter les **décisions rendues** (ou **jugements)** par presque _tous_ les tribunaux au Canada, de la Cour suprême à la Cour des petites créances de la Nouvelle-Écosse, en passant par la Cour du banc de la reine de l’Alberta ou la Cour supérieure du Québec, ainsi que pour retrouver des **lois**, partout au pays, je vous conseille le site de l’[**Institut canadien d’information juridique**](https://www.canlii.org/?origLang=fr) (aussi connu sous son acronyme anglais, **CanLII**). Il contient aussi les décisions de nombreux tribunaux administratifs comme les Conseils de discipline de tous les ordres professionnels au Québec. Et depuis 2020, il est même accessible en _**dark mode**_! 😜
 
-<figure><img src="https://www.canlii.org/images/canliiLogo.svg" alt="" width="375"><figcaption></figcaption></figure>
-
 Le site [**jugements.qc.ca**](http://citoyens.soquij.qc.ca/) vous permet également d’accéder à des jugements, mais au Québec seulement (avec la Cour suprême du Canada).
 
 {% hint style="warning" %}
@@ -30,6 +28,15 @@ Deux autres types d’information publique de nature juridique pourraient vous i
 ### Plumitif des tribunaux québécois (\$$$)
 
 Dans la plupart des cas, pour accéder à ce type d’information, il faut [s'abonner à la Société québécoise d’information juridique (SOQUIJ)](https://soquij.qc.ca/a/fr/produits/plumitifs). L'abonnement coûte 15 dollars par mois. Chaque recherche dans le plumitif coûte ensuite 4 dollars et chaque dossier que vous consultez, 4 dollars supplémentaires. C'est dont très coûteux **(\$$$)**…
+
+Vous pouvez toutefois accéder à l'interface web des plumitifs offerts par la SOQUIJ au rez-de-chaussée de la Grande bibliothèque (à Montréal) et dans d'autres bibliothèques de BAnQ au Québec.
+
+Il faut :
+
+* être **abonné à BAnQ** (c'est gratuit) et
+* se munir d'une **clé USB** pour sauvegarder ses résultats de recherche.
+
+<figure><img src="../.gitbook/assets/banq-plumitif.jpeg" alt="" width="563"><figcaption><p><mark style="background-color:purple;">Cherchez les ordinateurs au fond d'écran rose</mark>.</p></figcaption></figure>
 
 ### Plumitifs gratuits!
 
