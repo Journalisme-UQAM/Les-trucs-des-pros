@@ -44,7 +44,7 @@ Les dossiers qui passent par la LFI (ou qui sont **fermés** et qu’il pourrait
 
 Quelle que soit la loi utilisée, les dossiers d’insolvabilité **en cours** sont traités par un•e syndic ou un•e contrôleur•e. La plupart de ces syndics ou contrôleur•es publient la liste des dossiers qu’ils traitent sur leur site. Voici les principaux au Québec. Il vaut la peine de les consulter, car il arrive que certains dossiers, comme celui de Guzzo par exemple, ne se retrouvent pas dans la Listes des procédures sous la LACC, mais qu'ils soient pourtant bel et bien sur le site du contrôleur (Raymond Chabot dans ce cas-ci):
 
-* [Ernst & Young](https://documentcentre.eycan.com/default.aspx) -> [https://documentcentre.ey.com/#/home](https://documentcentre.ey.com/#/home)
+* [Ernst & Young](https://documentcentre.ey.com/#/home)
 * [KPMG](https://home.kpmg/ca/fr/home/services/advisory/deal-advisory/creditorlinks.html)
 * [Price Waterhouse Coopers](https://www.pwc.com/ca/fr/services/insolvency-assignments.html)
 * [Raymond Chabot](https://www.raymondchabot.com/fr/entreprise/dossiers-publics/)
