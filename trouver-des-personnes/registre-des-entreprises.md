@@ -52,7 +52,7 @@ Il est également possible de commander immédiatement des copies des documents 
 
 <figure><img src="../.gitbook/assets/canadaCorp.png" alt=""><figcaption></figcaption></figure>
 
-### Registre des Particuliers ayant un contrôle important (PCI)
+### Registre des particuliers ayant un contrôle important (PCI)
 
 Depuis 2024, le gouvernement fédéral impose aux sociétés de régime fédéral de tenir un registre des [particuliers ayant un contrôle important](https://ised-isde.canada.ca/site/corporations-canada/fr/renseignements-particuliers-ayant-controle-important-seront-mis-disposition-public). Ces informations seront bientôt mises à la disposition du public (et de vous, journalistes). À suivre!
 
