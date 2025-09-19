@@ -9,3 +9,5 @@ J'avais réuni dans cette page toute une variété d'outils... Mais l'évolution
 ## Un seul rendez-vous
 
 * Celui de Mike Reilley, de l'Université de l'Illinois à Chicago : [**Journalist's Toolbox**](https://journaliststoolbox.ai/).
+
+Et je suis soufflé par [**NotebookLM**](https://notebooklm.google.com/)...
