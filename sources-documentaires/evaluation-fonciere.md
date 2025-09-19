@@ -12,7 +12,7 @@ Les municipalités utilisent différents systèmes, dont certains semblent tout 
 
 Quand l’outil de recherche nous demande si on est un•e professionnel•le ou un citoyen, les journalistes que nous sommes sont considérés comme de **simples citoyen•nes** (les professionnel•les, ici, sont généralement des notaires).
 
-## Top-10 des rôles d'évaluation
+## Top-15 des rôles d'évaluation
 
 Voici des liens directs vers les services d’évaluation foncière des 15 municipalités les plus populeuses du Québec:
 
