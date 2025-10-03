@@ -4,6 +4,10 @@ description: Follow the money
 
 # 💰 Outils économiques
 
+## Organismes de bienfaisance 🇨🇦
+
+L'Agence du revenu donne plusieurs détails financiers très intéressants sur les [**organismes de bienfaisance**](https://apps.cra-arc.gc.ca/ebci/hacc/srch/pub/dsplyAdvncdSrch). Émettre des reçus d'impôts est un privilège qui vient avec des responsabilités de transparence sur ses finances.
+
 ## Sociétés cotées à la bourse
 
 Si le journalisme économique vous intéresse, vous trouverez rapidement tous les documents rendus publics par les sociétés canadiennes cotées en bourse grâce au [**Système électronique de données, d’analyse et de recherche (SEDAR)**](https://www.sedarplus.ca/landingpage/fr/) offert par l’Association canadienne des valeurs mobilières.
