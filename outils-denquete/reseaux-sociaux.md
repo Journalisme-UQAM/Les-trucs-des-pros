@@ -31,6 +31,16 @@ Il faut choisir de chercher parmi les **Personnes**. On peut ensuite faire une r
 
 <figure><img src="../.gitbook/assets/linkedin.png" alt=""><figcaption><p>J'ignore si vous obtiendrez les mêmes résultats, cependant. Les deux premiers résultats font partie des personnes qui sont dans les réseaux de personnes avec qui je suis connecté dans LinkedIn.</p></figcaption></figure>
 
+### Recherche avancée dans LinkedIn
+
+Il est possible de faire des recherches en fonction des employeurs **passés**. Après avoir sélectionné «Personnes», cliquez sur **«Tous les filtres»**.
+
+<figure><img src="../.gitbook/assets/LinkedIn_tousFiltres (1).png" alt=""><figcaption></figcaption></figure>
+
+Cela fait apparaître d'autres choix de filtres pour cibler vos critères de recherche. Il y en a plusieurs : entreprise passée ou études, par exemple.
+
+<figure><img src="../.gitbook/assets/LinkedIn_autresFiltres (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## X (_fka_ Twitter)
 
 Twitter offre une interface de [**recherche avancée**](https://twitter.com/search-advanced?lang=fr) qui permet de retrouver du contenu en fonction de **mots-clés** (avec des opérateurs qui ressemblent à ceux de Google), de **mots-clics** (_hashtags_) ou de **comptes** (@). Il est même possible de filtrer le tout par date.
