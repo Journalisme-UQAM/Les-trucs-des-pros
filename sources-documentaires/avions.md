@@ -10,6 +10,13 @@
 
 ## Navires
 
-On peut faire quelque chose d'équivalent avec le site [**Marine Traffic**](https://www.marinetraffic.com/) pour avoir plus d'informations sur un navire qui est à quai au port de Montréal, par exemple.
+* Il existe aussi au Canada un [**Système de recherche d'informations sur l'immatriculation des bâtiments**](https://wwwapps.tc.gc.ca/Saf-Sec-Sur/4/vrqs-srib/fra/immatriculation-des-batiments/recherche-avancee) permettant de faire des recherches dans les trois registres des navires enregistrés au pays:
+  * Le registre des bâtiments (grands)
+  * Le registre des petits bâtiments
+  * Le registre des embarcations de plaisance
+
+<figure><img src="../.gitbook/assets/bella.png" alt=""><figcaption><p>Fiche du Bella Desgagnés, navire qui ravitaille la Basse Côte-Nord et Anticosti.</p></figcaption></figure>
+
+On peut suivre le parcours d'un navire de la même manière qu'on peut le faire avec des avions grâce au site [**Marine Traffic**](https://www.marinetraffic.com/). On peut ainsi avoir plus d'informations sur un navire qui est à quai au port de Montréal, par exemple.
 
 <figure><img src="../.gitbook/assets/elBato.png" alt=""><figcaption><p>En cliquant sur «Détails sur le navire», on apprend que ce porte-conteneurs battant pavillon libérien 🇱🇷 a été construit en 2000.</p></figcaption></figure>
