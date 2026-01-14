@@ -25,6 +25,7 @@ Quatre outils de recherche d'images inversée peuvent être utiles.
 * [**Bing images**](https://www.bing.com/visualsearch) peut parfois s'avérer une bonne solution de rechange à Google.
 * Le volet images du moteur de recherche russe [**Yandex**](https://yandex.com/) peut également être utilisé si les deux précédents ne donnent pas les résultats escomptés.
 * [**PimEyes**](https://pimeyes.com) est d'une redoutable efficacité, mais il est passablement **coûteux** (\~400 $CAD par an).
+* [**PicDetective**](https://picdetective.com/) est un autre outil qui peut trouver des images qui ont été « flippées » ou « croppées ».
 
 ### Qui est sur la photo?
 
