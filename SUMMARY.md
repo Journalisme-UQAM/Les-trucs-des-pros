@@ -27,6 +27,7 @@
 * [🕸️ Analyse web](outils-denquete/analyse-web.md)
 * [📸 Analyse d'images](outils-denquete/analyse-dimages.md)
 * [📱 Réseaux sociaux](outils-denquete/reseaux-sociaux.md)
+* [☁️ Infonuagique](outils-denquete/reseaux-sociaux-1.md)
 * [🕵️‍♀️ 🕵♀ Autres outils](outils-denquete/autres-outils.md)
 
 ## Et plus loin encore
