@@ -15,7 +15,7 @@
 * [🏠 Évaluation foncière](sources-documentaires/evaluation-fonciere.md)
 * [🏡 Registre foncier et infolot](sources-documentaires/registre-foncier-et-infolot.md)
 * [⚖️ Outils juridiques](sources-documentaires/outils-juridiques.md)
-* [🐟 Outils environnementaux](sources-documentaires/outils-juridiques-1.md)
+* [🐟 Outils environnementaux](sources-documentaires/outils-environnement.md)
 * [💰 Outils économiques](sources-documentaires/outils-economiques.md)
 * [🧀 SEAO et contrats](sources-documentaires/seao-et-lobbyistes.md)
 * [🗳️ Outils politiques](sources-documentaires/outils-politiques.md)
@@ -32,8 +32,8 @@
 
 ## Et plus loin encore
 
-* [📼 Téléchargement de vidéos](et-plus-loin-encore/outils-de-veille.md)
-* [⏰ Outils de veille](et-plus-loin-encore/outils-de-veille-1.md)
+* [📼 Téléchargement de vidéos](et-plus-loin-encore/videos.md)
+* [⏰ Outils de veille](et-plus-loin-encore/outils-de-veille.md)
 * [📈 Données](et-plus-loin-encore/donnees.md)
 * [🤖 Automatisation](et-plus-loin-encore/automatiser-les-affaires-plates.md)
 * [🧰 Boîte IA outils](et-plus-loin-encore/boite-ia-outils.md)
