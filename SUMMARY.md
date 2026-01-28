@@ -32,7 +32,8 @@
 
 ## Et plus loin encore
 
-* [⏰ Outils de veille](et-plus-loin-encore/outils-de-veille.md)
+* [📼 Téléchargement de vidéos](et-plus-loin-encore/outils-de-veille.md)
+* [⏰ Outils de veille](et-plus-loin-encore/outils-de-veille-1.md)
 * [📈 Données](et-plus-loin-encore/donnees.md)
 * [🤖 Automatisation](et-plus-loin-encore/automatiser-les-affaires-plates.md)
 * [🧰 Boîte IA outils](et-plus-loin-encore/boite-ia-outils.md)
