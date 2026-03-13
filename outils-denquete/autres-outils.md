@@ -1,5 +1,13 @@
 # 🕵️‍♀️ 🕵♀ Autres outils
 
+<figure><img src="../.gitbook/assets/Schtroumpf d&#x27;écran, le 2026-03-13 à 08.04.04.png" alt=""><figcaption></figcaption></figure>
+
+### OSInt Canada
+
+L'enquêteur Mark Fenton a réuni une série d'[**outils de recherche accessibles à la grandeur du Canada**](https://start.me/p/aLe0vp/osint-resources-in-canada).
+
+***
+
 <figure><img src="../.gitbook/assets/char.jpg" alt=""><figcaption><p>Non, il n'existe pas de base de données des numéros de plaques minéralogiques au Canada. Aux États-Unis, cependant, c'est possible d'obtenir des infos avec un numéro de plaque et l'État qui l'a émise.</p></figcaption></figure>
 
 ### Carnet
