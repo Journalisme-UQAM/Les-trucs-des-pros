@@ -12,7 +12,13 @@ Si vous ne trouvez rien dans la Wayback, [**Archive Today**](https://archive.ph/
 
 ### Common Crawl
 
-L'écumage le plus exhaustif du web est réalisé par [**Common Crawl**](https://commoncrawl.org/). Mais le désavantage, c'est que ce site contient des quantités phénoménales de données difficiles à extraire.
+L'écumage le plus exhaustif est réalisé par [**Common Crawl**](https://commoncrawl.org/). Mais le désavantage, c'est que ce site contient des quantités phénoménales de données difficiles à extraire.
+
+[**CrawlBack**](https://crawlback.cc/) permet cependant de faciliter la recherche dans ce gigantesque corpus souvent utilisé, _by the way_, pour entraîner des modèles de langue.
+
+### Plusieurs archives en même temps!
+
+Le _plugin_ [**PastPage**](https://github.com/nabertronic/pastpage) vous permet de faire des recherches dans plusieurs sites d'archives en même temps : Wayback; Archive Today, le Common Crawl et d'autres. Pour Chrome et Firefox.
 
 ## Documents numérisés
 
